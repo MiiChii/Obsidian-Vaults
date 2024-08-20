@@ -1,0 +1,37 @@
+{
+  "showGoalMessage": true,
+  "showInFileExplorer": true,
+  "showGoalOnCreateAndUpdate": true,
+  "noteGoals": [],
+  "folderGoals": [
+    {
+      "path": "Writing/Cyberpunk World/Stories",
+      "goalCount": 0,
+      "dailyGoalCount": 500
+    },
+    {
+      "path": "Writing",
+      "goalCount": 0,
+      "dailyGoalCount": 1000
+    }
+  ],
+  "goalLeaves": [
+    "Writing"
+  ],
+  "customGoalFrontmatterKey": "word-goal",
+  "customDailyGoalFrontmatterKey": "daily-word-goal",
+  "showSingleGoalView": false,
+  "showProgressChart": true,
+  "excludeComments": true,
+  "allowNegativeGoalProgress": false,
+  "enableCustomColors": false,
+  "customColors": {
+    "goalColor": "var(--interactive-accent)",
+    "dailyGoalColor": "var(--text-warning)",
+    "textColor": "var(--text-normal)",
+    "backgroundColor": "var(--background-primary)",
+    "successColor": "var(--background-modifier-success)"
+  },
+  "defaultSprintGoalCount": 500,
+  "defaultSprintMinutes": 25
+}

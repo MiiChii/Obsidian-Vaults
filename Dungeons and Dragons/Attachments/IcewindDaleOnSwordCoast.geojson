@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+	  	[1002.5921, 1653.6298],
+		[1002.5921, 1731.8357],
+		[1080.9817, 1731.8357],
+		[1080.9817, 1653.6298]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Icewind Dale"
+      }
+    }
+  ]
+}

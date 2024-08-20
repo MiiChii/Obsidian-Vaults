@@ -1,0 +1,204 @@
+{
+  "mapMarkers": [
+    {
+      "id": "caves-of-hunger",
+      "lastAccessed": 1682982261464,
+      "markers": [
+        {
+          "id": "ID_b89bda5a9a88",
+          "type": "default",
+          "loc": [
+            -0.12291504594844284,
+            0.23478154844084587
+          ],
+          "link": "Icewind Dale",
+          "layer": "%5B%5BCaves%20of%20Hunger.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.10876105207121745,
+            0.041955002350401824
+          ],
+          "description": "Entry",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8ea1b89d9bb",
+          "type": "default",
+          "loc": [
+            -0.42060089111328125,
+            0.3623046875
+          ],
+          "layer": "%5B%5BCaves%20of%20Hunger.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*You come to a thirty-foot-high cavern. In its center, the remains of a wooden ship hull rest on the floor.*\n\nIf Professor Skant is allowed to view the wreckage, the professort orb offers the following commentary:\n\"Ah, a Netherese skycoach! I've always wanted to ride on one of those. Pity it's no longer in one piece.\"",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dungeons and Dragons/Atlas/Faerun/Icewind Dale/Caves of Hunger.md"
+      ]
+    },
+    {
+      "id": "icewind-dale",
+      "lastAccessed": 1685212518644,
+      "markers": [
+        {
+          "id": "ID_4b5afa186878",
+          "type": "default",
+          "loc": [
+            -0.134033203125,
+            1.0664077004429238
+          ],
+          "link": "Caves of Hunger",
+          "layer": "%5B%5BIcewind%20Dale.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8564717531400423,
+            0.16109154929577466
+          ],
+          "description": "The Caves of Hunger is a sprawling dungeon complex hollowed out of the Reghed Glacier. Some of its caves and tunnels formed naturally, some formed as a byproduct of Ythryn's fall, and still otherse are the work of creatures such as remorhazes that can dig or melt their way through solid ice.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bfb7a7a0a69",
+          "type": "default",
+          "loc": [
+            -0.768564304160769,
+            0.2706884355718091
+          ],
+          "link": "Sword Coast",
+          "layer": "%5B%5BIcewind%20Dale.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.21739996707884904,
+            0.9237204782401731
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dungeons and Dragons/Atlas/Faerun/Icewind Dale/Icewind Dale.md"
+      ]
+    },
+    {
+      "id": "sword-coast",
+      "lastAccessed": 1700779390024,
+      "markers": [
+        {
+          "id": "ID_29e86a58d9f9",
+          "type": "default",
+          "loc": [
+            1442.25,
+            1117.750336508594
+          ],
+          "layer": "%5B%5BSword%20Coast.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            56.106683558078444,
+            -111.88363636363637
+          ],
+          "description": "Neverwinter",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dungeons and Dragons/Atlas/Faerun/Sword Coast/Sword Coast.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.0",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 0
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": true,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 9,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "1300px",
+    "image": "[[Icespire Hold.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Icespire Hold.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 12,
+    "minZoom": 8.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "sword-coast",
+    "unit": "miles",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}

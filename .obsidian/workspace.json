@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "fbbc7da27a1dd0fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc8345c8837614a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c59e56e51088ce42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Real Life stuff/Cooking/Food Truck/Speisekarte.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ba1c31d1dc13f025",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b94140eec26579f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "873a03ed65781e2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbc1be1e027f003a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0ed9cf129cef559",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#vinegar",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f259001f79d46b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6bff2f48f28de4c",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75ea99caa1e7f968",
+    "type": "split",
+    "children": [
+      {
+        "id": "456a44bd070aa075",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35be89de5c589161",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a639e5f91ee38f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e02fec6c89cb45f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom"
+              }
+            }
+          },
+          {
+            "id": "bea077967c451065",
+            "type": "leaf",
+            "state": {
+              "type": "writing-goal",
+              "state": {}
+            }
+          },
+          {
+            "id": "93626028fb8a9d5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a61bda8cb7fab159",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a326eaec3807e539",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a6a95d65ced1967",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c85df0b976d64eff",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "259ea84df956410a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "random-note:Open random note": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "notion-like-tables:Create loom": false
+    }
+  },
+  "active": "ba1c31d1dc13f025",
+  "lastOpenFiles": [
+    "Real Life stuff/Cooking/Food Truck/Speisekarte.md",
+    "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
+    "Real Life stuff/Cooking/Food Truck/Kostenabschätzung Datei.md",
+    "Real Life stuff/Cooking/Food/Menu.md",
+    "Real Life stuff/Cooking/Food/Recipes/Dango.md",
+    "Real Life stuff/Cooking/Food/Recipes/Gyoza.md",
+    "Real Life stuff/Cooking/Food/Recipes/Couscous.md",
+    "Real Life stuff/Cooking/Food/Recipes/Fried Rice.md",
+    "Real Life stuff/Cooking/Food/Recipes/Curry.md",
+    "Real Life stuff/Cooking/Food/Recipes/Naan.md",
+    "Real Life stuff/Wishlist.md",
+    "Real Life stuff/Cooking/Food Truck",
+    "Real Life stuff/Cooking/Food/Recipes/Chili.md",
+    "Real Life stuff/Cooking/Food/Recipes/Burger.md",
+    "Real Life stuff/Cooking/Ingredients/Ingredients.md",
+    "Real Life stuff/Cooking/Food/Recipes/Tofu Katsu.md",
+    "Real Life stuff/Cooking/Food/Recipes/Enchiladas.md",
+    "Real Life stuff/Cooking/Food/Recipes/Butter Chicken (Tofu).md",
+    "Real Life stuff/Cooking/Food/Recipes/Burrito.md",
+    "Real Life stuff/Cooking/Food/Recipes/Crunchwraps.md",
+    "ZMeta/Attachments/Pasted image 20240802104650.png",
+    "ZMeta/Attachments/Pasted image 20240802104009.png",
+    "ZMeta/Attachments/Pasted image 20240802103829.png",
+    "ZMeta/Attachments/Pasted image 20240802103240.png",
+    "ZMeta",
+    "ZMeta/Attachments",
+    "Real Life stuff/Cooking/Ingredients/Spices/Spice Mixes/Ras El Hanout.md",
+    "ZMeta/Templates/Recipe.md",
+    "ZMeta/Templates/Spice Mix.md",
+    "Real Life stuff/Cooking/Ingredients/Spices/Spices List.md",
+    "Real Life stuff/Cooking/Ingredients/Grains/Grains List.md",
+    "Real Life stuff/Cooking/Food/Menu (Exportable).md",
+    "Real Life stuff/Cooking/Ingredients/Vinegar/Vinegar List.md",
+    "Real Life stuff/Cooking/Ingredients/Sauces",
+    "Templates/Untitled",
+    "ZMeta/Templates",
+    "Real Life stuff/Cooking/Food/Low Effort Food",
+    "Real Life stuff/Cooking/Ingredients/Vinegar",
+    "Real Life stuff/Cooking/Ingredients/Veggies",
+    "ZMeta/Attachments/Pasted image 20240713190935.png",
+    "ZMeta/Attachments/Pasted image 20240713190943.png",
+    "Untitled.canvas",
+    "Dungeons and Dragons/Attachments/Maps/Icewind Dale/Caves of Hunger.jpg"
+  ]
+}

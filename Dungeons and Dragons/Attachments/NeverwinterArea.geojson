@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+	  	[1079.4553, 1556.9424],
+		[1268.5033, 1556.9424],
+		[1268.5033, 1302.9083],
+		[1079.4553, 1302.9083]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Neverwinter Area"
+      }
+    }
+  ]
+}
