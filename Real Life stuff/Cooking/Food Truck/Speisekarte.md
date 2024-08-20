@@ -4,6 +4,3 @@ FROM #recipe AND #foodtruck
 WHERE file.name != "Recipe"
 SORT kitchen asc
 ```
-
-
-Hello Hello Test  test
