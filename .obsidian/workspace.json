@@ -11,26 +11,13 @@
             "id": "c59e56e51088ce42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real Life stuff/Cooking/Food Truck/Speisekarte.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ba1c31d1dc13f025",
-            "type": "leaf",
-            "state": {
               "type": "dataloom",
               "state": {
                 "file": "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,10 +205,14 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "notion-like-tables:Create loom": false
     }
   },
-  "active": "ba1c31d1dc13f025",
+  "active": "c59e56e51088ce42",
   "lastOpenFiles": [
     "Real Life stuff/Cooking/Food Truck/Speisekarte.md",
     "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
