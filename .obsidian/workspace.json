@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real Life stuff/Cooking/Food Truck/Speisekarte.md",
+                "file": "Real Life stuff/Cooking/Food/Menu.md",
                 "mode": "preview",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real Life stuff/Cooking/Food Truck/Speisekarte.md",
+                "file": "Real Life stuff/Cooking/Food/Menu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real Life stuff/Cooking/Food Truck/Speisekarte.md",
+                "file": "Real Life stuff/Cooking/Food/Menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real Life stuff/Cooking/Food Truck/Speisekarte.md"
+                "file": "Real Life stuff/Cooking/Food/Menu.md"
               }
             }
           },
@@ -229,8 +229,8 @@
   },
   "active": "9f351e0b50f9f385",
   "lastOpenFiles": [
-    "Real Life stuff/Cooking/Food/Menu.md",
     "Real Life stuff/Cooking/Food Truck/Speisekarte.md",
+    "Real Life stuff/Cooking/Food/Menu.md",
     "Real Life stuff/Cooking/Food/Recipes/Curry.md",
     "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
     "Real Life stuff/Wishlist.md",

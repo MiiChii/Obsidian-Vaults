@@ -6,6 +6,16 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2024-09-16T12:40:37.824Z",
+      "total": 0,
+      "drafts": {
+        "Writing/Cyberpunk World/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2024-08-21T02:17:46.941Z",
       "total": 0,
       "drafts": {
@@ -287,16 +297,6 @@
     },
     {
       "start": "2023-11-17T13:32:31.642Z",
-      "total": 0,
-      "drafts": {
-        "Writing/Cyberpunk World/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2023-11-15T17:29:23.998Z",
       "total": 0,
       "drafts": {
         "Writing/Cyberpunk World/Index.md": {
