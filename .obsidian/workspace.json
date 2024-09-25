@@ -23,11 +23,9 @@
             "id": "9f351e0b50f9f385",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "dataloom",
               "state": {
-                "file": "Real Life stuff/Cooking/Food/Menu.md",
-                "mode": "preview",
-                "source": true
+                "file": "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real Life stuff/Cooking/Food/Menu.md",
+                "file": "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real Life stuff/Cooking/Food/Menu.md",
+                "file": "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real Life stuff/Cooking/Food/Menu.md"
+                "file": "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom"
               }
             }
           },
@@ -229,8 +227,9 @@
   },
   "active": "9f351e0b50f9f385",
   "lastOpenFiles": [
-    "Real Life stuff/Cooking/Food Truck/Speisekarte.md",
+    "Real Life stuff/Cooking/Food/Recipes/Butter Chicken.md",
     "Real Life stuff/Cooking/Food/Menu.md",
+    "Real Life stuff/Cooking/Food Truck/Speisekarte.md",
     "Real Life stuff/Cooking/Food/Recipes/Curry.md",
     "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
     "Real Life stuff/Wishlist.md",
@@ -246,7 +245,6 @@
     "Real Life stuff/Cooking/Ingredients/Ingredients.md",
     "Real Life stuff/Cooking/Food/Recipes/Tofu Katsu.md",
     "Real Life stuff/Cooking/Food/Recipes/Enchiladas.md",
-    "Real Life stuff/Cooking/Food/Recipes/Butter Chicken (Tofu).md",
     "Real Life stuff/Cooking/Food/Recipes/Burrito.md",
     "Real Life stuff/Cooking/Food/Recipes/Crunchwraps.md",
     "ZMeta/Attachments/Pasted image 20240802104650.png",
