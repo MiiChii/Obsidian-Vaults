@@ -24,7 +24,6 @@ Metal bits:
 - Bearing 8mm (2x)
 - Bearing 5mm (1x)
 - String holders (4x)
-- Spacer Tube (1x)
 - Spacer ring (5x)
 
 Strings:
