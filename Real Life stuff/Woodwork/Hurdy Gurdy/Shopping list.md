@@ -1,12 +1,20 @@
+#### Tools
+- Cuttermesser
 - Holzleim
+- Klammern
+- Schleifpapier
+- Feile
+- Schraubendreher
+- Schraubenschlüssel
+- Bohrer
+
+#### Materialien
 - Holzplatten (3mm 1200x600; 6mm ~520*300)
 - 3D-Drucker Filament
-- Schleifpapier, Feile
-- Guitar Tuners (6x)
 - Strip of felt (1x)
 - Wooden violin pegs (2x)
 
-Metal bits:
+#### Metal bits:
 - Screw 2,5x13 (4x)
 - Screw 3,5x17 (7x)
 - Screw 3,5x20 (2x)
@@ -19,14 +27,16 @@ Metal bits:
 - Bolt M5x50 (1x)
 - Bolt M2,5 (for tangents) (48x)
 - Threaded rod M8 22cm (1x)
-- 
+
 - Locking nut M5 (1x)
 - Bearing 8mm (2x)
 - Bearing 5mm (1x)
 - String holders (4x)
 - Spacer ring (5x)
 
-Strings:
+- Guitar Tuners (6x)
+
+#### Strings:
 - Viola G (Chantarelle low G)
 - Viola A (Chantarelle high G)
 - Trumpet C
