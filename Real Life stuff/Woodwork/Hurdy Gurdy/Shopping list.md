@@ -2,6 +2,25 @@
 - Holzplatten (3mm 1200x600; 6mm ~520*300)
 - 3D-Drucker Filament
 - Schleifpapier, Feile
-- Guitar Tuners
-- Strip of felt
+- Guitar Tuners (6x)
+- Strip of felt (1x)
+
+Metal bits:
+- Screw 2,5x13 (4x)
+- Screw 3,5x17 (7x)
+- Screw 3,5x20 (2x)
+- Nut M3 (4x)
+- Nut 8mm (8x)
+- Nut M5 (1x)
+- Bolt M3x10 (4x)
+- Bolt M3x12 (2x)
+- Bolt M3x20 (2x)
+- Bolt M5x50 (1x
+- Bolt M2,5 (for tangents) (48x)
 - 
+- 
+- 
+- Bearing 8mm (2x)
+- String holders (4x)
+- Spacer Tube (1x)
+- Spacer ring (5x)
