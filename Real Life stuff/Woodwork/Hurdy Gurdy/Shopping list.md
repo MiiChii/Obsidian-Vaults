@@ -4,6 +4,7 @@
 - Schleifpapier, Feile
 - Guitar Tuners (6x)
 - Strip of felt (1x)
+- Wooden violin pegs (2x)
 
 Metal bits:
 - Screw 2,5x13 (4x)
@@ -17,11 +18,19 @@ Metal bits:
 - Bolt M3x20 (2x)
 - Bolt M5x50 (1x)
 - Bolt M2,5 (for tangents) (48x)
+- Threaded rod M8 22cm (1x)
 - 
-- 
-- 
+- Locking nut M5 (1x)
 - Bearing 8mm (2x)
+- Bearing 5mm (1x)
 - String holders (4x)
 - Spacer Tube (1x)
 - Spacer ring (5x)
-- 
+
+Strings:
+- Viola G (Chantarelle low G)
+- Viola A (Chantarelle high G)
+- Trumpet C
+- Trumpet G
+- Cello G (Bourdon high C)
+- Cello C (Bourdon low G)
