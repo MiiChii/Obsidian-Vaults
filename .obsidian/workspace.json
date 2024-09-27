@@ -23,9 +23,11 @@
             "id": "9f351e0b50f9f385",
             "type": "leaf",
             "state": {
-              "type": "dataloom",
+              "type": "markdown",
               "state": {
-                "file": "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom"
+                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
+                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
+                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom"
+                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md"
               }
             }
           },
@@ -227,11 +229,14 @@
   },
   "active": "9f351e0b50f9f385",
   "lastOpenFiles": [
+    "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
+    "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
+    "Real Life stuff/Woodwork/Hurdy Gurdy",
+    "Real Life stuff/Woodwork",
     "Real Life stuff/Cooking/Food/Recipes/Butter Chicken.md",
     "Real Life stuff/Cooking/Food/Menu.md",
     "Real Life stuff/Cooking/Food Truck/Speisekarte.md",
     "Real Life stuff/Cooking/Food/Recipes/Curry.md",
-    "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
     "Real Life stuff/Wishlist.md",
     "Real Life stuff/Cooking/Food Truck/Kostenabschätzung Datei.md",
     "Real Life stuff/Cooking/Food/Recipes/Dango.md",
@@ -259,13 +264,10 @@
     "Real Life stuff/Cooking/Ingredients/Spices/Spices List.md",
     "Real Life stuff/Cooking/Ingredients/Grains/Grains List.md",
     "Real Life stuff/Cooking/Food/Menu (Exportable).md",
-    "Real Life stuff/Cooking/Ingredients/Vinegar/Vinegar List.md",
     "Real Life stuff/Cooking/Ingredients/Sauces",
     "Templates/Untitled",
     "ZMeta/Templates",
     "Real Life stuff/Cooking/Food/Low Effort Food",
-    "Real Life stuff/Cooking/Ingredients/Vinegar",
-    "Real Life stuff/Cooking/Ingredients/Veggies",
     "ZMeta/Attachments/Pasted image 20240713190935.png",
     "ZMeta/Attachments/Pasted image 20240713190943.png",
     "Untitled.canvas",

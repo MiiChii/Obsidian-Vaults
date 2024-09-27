@@ -1,0 +1,7 @@
+- Holzleim
+- Holzplatten (3mm 1200x600; 6mm ~520*300)
+- 3D-Drucker Filament
+- Schleifpapier, Feile
+- Guitar Tuners
+- Strip of felt
+- 
