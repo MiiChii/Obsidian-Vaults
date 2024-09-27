@@ -10,12 +10,12 @@ Metal bits:
 - Screw 3,5x17 (7x)
 - Screw 3,5x20 (2x)
 - Nut M3 (4x)
-- Nut 8mm (8x)
+- Nut M8 (8x)
 - Nut M5 (1x)
 - Bolt M3x10 (4x)
 - Bolt M3x12 (2x)
 - Bolt M3x20 (2x)
-- Bolt M5x50 (1x
+- Bolt M5x50 (1x)
 - Bolt M2,5 (for tangents) (48x)
 - 
 - 
@@ -24,3 +24,4 @@ Metal bits:
 - String holders (4x)
 - Spacer Tube (1x)
 - Spacer ring (5x)
+- 
