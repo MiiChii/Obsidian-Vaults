@@ -23,11 +23,16 @@
             "id": "9f351e0b50f9f385",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
-                "mode": "source",
-                "source": true
+                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/To Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -106,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
+                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
+                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md"
+                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/To Do.md"
               }
             }
           },
@@ -229,8 +234,9 @@
   },
   "active": "9f351e0b50f9f385",
   "lastOpenFiles": [
-    "Real Life stuff/Woodwork/Hurdy Gurdy/3D Print list.md",
     "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
+    "Real Life stuff/Woodwork/Hurdy Gurdy/To Do.md",
+    "Real Life stuff/Woodwork/Hurdy Gurdy/3D Print list.md",
     "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
     "Real Life stuff/Woodwork/Hurdy Gurdy",
     "Real Life stuff/Woodwork",
@@ -264,7 +270,6 @@
     "ZMeta/Templates/Spice Mix.md",
     "Real Life stuff/Cooking/Ingredients/Spices/Spices List.md",
     "Real Life stuff/Cooking/Ingredients/Grains/Grains List.md",
-    "Real Life stuff/Cooking/Food/Menu (Exportable).md",
     "Real Life stuff/Cooking/Ingredients/Sauces",
     "Templates/Untitled",
     "ZMeta/Templates",
