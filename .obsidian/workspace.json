@@ -30,6 +30,7 @@
                   "kanban-plugin": "board",
                   "list-collapse": [
                     false,
+                    false,
                     false
                   ]
                 }
@@ -234,9 +235,9 @@
   },
   "active": "9f351e0b50f9f385",
   "lastOpenFiles": [
-    "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
-    "Real Life stuff/Woodwork/Hurdy Gurdy/To Do.md",
     "Real Life stuff/Woodwork/Hurdy Gurdy/3D Print list.md",
+    "Real Life stuff/Woodwork/Hurdy Gurdy/To Do.md",
+    "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
     "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
     "Real Life stuff/Woodwork/Hurdy Gurdy",
     "Real Life stuff/Woodwork",

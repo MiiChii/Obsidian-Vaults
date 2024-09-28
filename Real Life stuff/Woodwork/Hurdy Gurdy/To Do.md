@@ -4,11 +4,20 @@ kanban-plugin: board
 
 ---
 
-## To Do
+## Preparation
 
 - [ ] Add design to lid
 - [ ] Change wheel design
 - [ ] Add sound-holes
+- [ ] Buy materials
+
+
+## Building
+
+- [ ] Cut and engrave wood
+- [ ] 3D Print parts
+- [ ] Build a gurdy
+- [ ] Stain and colour
 
 
 ## Done
@@ -19,6 +28,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
