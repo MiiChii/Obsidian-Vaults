@@ -9,7 +9,7 @@
 - Bohrer
 
 #### Materialien
-- Holzplatten (3mm 1200x600; 6mm ~520*300)
+- Holzplatten (3mm 1200x600; 6mm ~520x300)
 - 3D-Drucker Filament
 - Strip of felt (1x)
 - Wooden violin pegs (2x)
