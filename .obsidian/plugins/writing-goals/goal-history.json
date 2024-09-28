@@ -181,6 +181,13 @@
       "startCount": 4606,
       "endCount": 4606,
       "date": "Fri Sep 27 2024 00:00:00 GMT+0200"
+    },
+    {
+      "dailyGoal": 500,
+      "goal": 0,
+      "startCount": 4606,
+      "endCount": 4606,
+      "date": "Sat Sep 28 2024 00:00:00 GMT+0200"
     }
   ],
   "Writing": [
@@ -365,6 +372,13 @@
       "startCount": 7011,
       "endCount": 7011,
       "date": "Fri Sep 27 2024 00:00:00 GMT+0200"
+    },
+    {
+      "dailyGoal": 1000,
+      "goal": 0,
+      "startCount": 7011,
+      "endCount": 7011,
+      "date": "Sat Sep 28 2024 00:00:00 GMT+0200"
     }
   ]
 }
