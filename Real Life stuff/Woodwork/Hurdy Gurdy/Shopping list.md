@@ -14,7 +14,7 @@
 - Strip of felt (1x)
 - Wooden violin pegs (2x)
 
-#### Metal bits:
+#### Metal bits
 - Screw 2,5x13 (4x)
 - Screw 3,5x17 (7x)
 - Screw 3,5x20 (2x)
@@ -36,7 +36,7 @@
 
 - Guitar Tuners (6x)
 
-#### Strings:
+#### Strings
 - Viola G (Chantarelle low G)
 - Viola A (Chantarelle high G)
 - Trumpet C
