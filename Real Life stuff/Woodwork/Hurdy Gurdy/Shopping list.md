@@ -13,6 +13,7 @@
 - 3D-Drucker Filament
 - Strip of felt (1x)
 - Wooden violin pegs (2x)
+- Wood stains and colours
 
 #### Metal bits
 - Screw 2,5x13 (4x)
