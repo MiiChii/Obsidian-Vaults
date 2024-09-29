@@ -9,7 +9,8 @@ kanban-plugin: board
 - [ ] Add design to lid
 - [ ] Change wheel design
 - [ ] Add sound-holes
-- [ ] Buy materials
+- [ ] Buy [[Shopping list|materials]]
+- [ ] Buy strings
 
 
 ## Building
