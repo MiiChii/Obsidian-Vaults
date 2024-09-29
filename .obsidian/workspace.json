@@ -23,17 +23,11 @@
             "id": "9f351e0b50f9f385",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/To Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -112,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/To Do.md",
+                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/To Do.md",
+                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/To Do.md"
+                "file": "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md"
               }
             }
           },
@@ -235,8 +229,8 @@
   },
   "active": "9f351e0b50f9f385",
   "lastOpenFiles": [
-    "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
     "Real Life stuff/Woodwork/Hurdy Gurdy/To Do.md",
+    "Real Life stuff/Woodwork/Hurdy Gurdy/Shopping list.md",
     "Real Life stuff/Woodwork/Hurdy Gurdy/3D Print list.md",
     "Real Life stuff/Cooking/Food Truck/Kostenabschätzung.loom",
     "Real Life stuff/Woodwork/Hurdy Gurdy",
