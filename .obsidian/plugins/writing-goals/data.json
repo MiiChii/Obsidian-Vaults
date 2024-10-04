@@ -5,17 +5,19 @@
   "noteGoals": [],
   "folderGoals": [
     {
-      "path": "Writing/Cyberpunk World/Stories",
-      "goalCount": 0,
-      "dailyGoalCount": 500
-    },
-    {
-      "path": "Writing",
+      "path": "Arts and Crafts/Writing",
       "goalCount": 0,
       "dailyGoalCount": 1000
+    },
+    {
+      "path": "Arts and Crafts/Writing/Cyberpunk World/Stories",
+      "goalCount": 0,
+      "dailyGoalCount": 500
     }
   ],
-  "goalLeaves": [],
+  "goalLeaves": [
+    "Writing"
+  ],
   "customGoalFrontmatterKey": "word-goal",
   "customDailyGoalFrontmatterKey": "daily-word-goal",
   "showSingleGoalView": false,
