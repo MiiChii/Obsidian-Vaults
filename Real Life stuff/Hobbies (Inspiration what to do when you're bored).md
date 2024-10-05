@@ -3,5 +3,7 @@
 - Program
 - Cook / Food prep
 - Go for a walk
+- Do sport / go on a jog
 - Draw
 - Think of a new project / look for a new hyperfixation
+- 
