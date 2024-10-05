@@ -15,7 +15,9 @@
       "dailyGoalCount": 500
     }
   ],
-  "goalLeaves": [],
+  "goalLeaves": [
+    "Writing"
+  ],
   "customGoalFrontmatterKey": "word-goal",
   "customDailyGoalFrontmatterKey": "daily-word-goal",
   "showSingleGoalView": false,
