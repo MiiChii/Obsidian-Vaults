@@ -23,8 +23,12 @@
             "id": "9f351e0b50f9f385",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Real Life stuff/Hobbies (Inspiration what to do when you're bored).md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -102,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arts and Crafts/Cooking/Food Truck/Speisekarte.md",
+                "file": "Real Life stuff/Hobbies (Inspiration what to do when you're bored).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arts and Crafts/Cooking/Food Truck/Speisekarte.md",
+                "file": "Real Life stuff/Hobbies (Inspiration what to do when you're bored).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arts and Crafts/Cooking/Food Truck/Speisekarte.md"
+                "file": "Real Life stuff/Hobbies (Inspiration what to do when you're bored).md"
               }
             }
           },
@@ -223,10 +227,11 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "cbc1be1e027f003a",
+  "active": "9f351e0b50f9f385",
   "lastOpenFiles": [
-    "Arts and Crafts/Music/Throat singing",
     "Real Life stuff/Wishlist.md",
+    "Real Life stuff/Hobbies (Inspiration what to do when you're bored).md",
+    "Arts and Crafts/Music/Throat singing",
     "Arts and Crafts/Woodwork/Hurdy Gurdy/Shopping list.md",
     "Arts and Crafts",
     "Arts and Crafts/Music",
@@ -264,7 +269,6 @@
     "ZMeta/Templates/Spice Mix.md",
     "Arts and Crafts/Cooking/Ingredients/Spices/Spices List.md",
     "Arts and Crafts/Cooking/Ingredients/Sauces",
-    "Templates/Untitled",
     "ZMeta/Attachments/Pasted image 20240713190935.png",
     "ZMeta/Attachments/Pasted image 20240713190943.png",
     "Untitled.canvas",

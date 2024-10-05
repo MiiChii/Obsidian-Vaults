@@ -1,0 +1,7 @@
+- Sing
+- Play an instrument
+- Program
+- Cook / Food prep
+- Go for a walk
+- Draw
+- Think of a new project / look for a new hyperfixation
