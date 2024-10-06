@@ -4,19 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "76a6104ee53c776b",
+        "id": "0dd35ae32283013a",
         "type": "tabs",
+        "dimension": 61.635565312843035,
         "children": [
           {
-            "id": "b44923dab97a3223",
+            "id": "a7e9efcd033eda43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Arts and Crafts/Cooking/Food Truck/Speisekarte.md",
-                "mode": "source",
-                "source": true
+                "file": "Projects/Projects.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "81a36d39f3f55be9",
+        "type": "tabs",
+        "dimension": 38.36443468715697,
+        "children": [
+          {
+            "id": "285628c772d160d9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -51,7 +76,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -62,14 +87,6 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "d6bff2f48f28de4c",
-            "type": "leaf",
-            "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
           }
@@ -93,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arts and Crafts/Cooking/Food Truck/Speisekarte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arts and Crafts/Cooking/Food Truck/Speisekarte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Arts and Crafts/Cooking/Food Truck/Speisekarte.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,14 +159,6 @@
             }
           },
           {
-            "id": "a61bda8cb7fab159",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "a326eaec3807e539",
             "type": "leaf",
             "state": {
@@ -162,7 +167,7 @@
             }
           },
           {
-            "id": "8a6a95d65ced1967",
+            "id": "1f16a214dc39ebc5",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -170,28 +175,19 @@
             }
           },
           {
-            "id": "c85df0b976d64eff",
+            "id": "9d90c07179e6a626",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
-          },
-          {
-            "id": "259ea84df956410a",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 450.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,61 +199,59 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-projects:Open projects": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "notion-like-tables:Create loom": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "cmdr:Open settings": false
     }
   },
-  "active": "b44923dab97a3223",
+  "active": "285628c772d160d9",
   "lastOpenFiles": [
-    "excalibrain.md",
-    "Arts and Crafts/Cooking/Food Truck/Speisekarte.md",
-    "Excalidraw/ExcaliBrain Snapshot - Speisekarte.excalidraw.md",
-    "Excalidraw",
-    "Arts and Crafts/Cooking/Cooking.md",
-    "Arts and Crafts/Cooking/Food/Food.md",
-    "Arts and Crafts/Cooking/Menu.md",
-    "Arts and Crafts/Cooking/Recipes/Recipes.md",
-    "Arts and Crafts/Woodwork/Nerdy Gurdy/To Do.md",
-    "Arts and Crafts/Woodwork/Nerdy Gurdy/Shopping list.md",
-    "Arts and Crafts/Woodwork/Nerdy Gurdy/Nerdy Gurdy.md",
-    "Arts and Crafts/Woodwork/Nerdy Gurdy/3D Print list.md",
-    "Projects/Planned Projects.md",
-    "Real Life stuff/Hobbies (Inspiration what to do when you're bored).md",
+    "Projects/Projects.md",
+    "Projects/Music Videos",
+    "Brainstorming.md",
+    "Projects/Nerdy Gurdy/To Do.md",
+    "Projects/Nerdy Gurdy/3D Print list.md",
+    "Projects/Nerdy Gurdy/Shopping list.md",
+    "Test.md",
+    "Projects/Nerdy Gurdy/Nerdy Gurdy.md",
     "Projects",
-    "Real Life stuff/Wishlist.md",
-    "Arts and Crafts/Music/Throat singing",
-    "Arts and Crafts",
-    "Arts and Crafts/Music",
-    "Arts and Crafts/Cooking/Food Truck/Kostenabschätzung.loom",
-    "Arts and Crafts/Woodwork/Nerdy Gurdy",
-    "Arts and Crafts/Woodwork",
-    "Arts and Crafts/Cooking/Recipes/Butter Chicken.md",
-    "Arts and Crafts/Cooking/Recipes/Curry.md",
-    "Real Life stuff/Cooking/Food Truck/Kostenabschätzung Datei.md",
-    "Arts and Crafts/Cooking/Recipes/Dango.md",
-    "Arts and Crafts/Cooking/Recipes/Gyoza.md",
-    "Arts and Crafts/Cooking/Recipes/Couscous.md",
-    "Arts and Crafts/Cooking/Recipes/Fried Rice.md",
-    "Arts and Crafts/Cooking/Recipes/Naan.md",
-    "Arts and Crafts/Cooking/Food Truck",
-    "Arts and Crafts/Cooking/Recipes/Chili.md",
-    "Arts and Crafts/Cooking/Recipes/Burger.md",
-    "Arts and Crafts/Cooking/Ingredients/Ingredients.md",
-    "Arts and Crafts/Cooking/Recipes/Tofu Katsu.md",
+    "Food/Foodtruck Menu.md",
+    "Food/Recipes/Ras El Hanout.md",
+    "Food/Ingredients.md",
+    "Food/Ingredients/Vinegar List.md",
+    "Food/Ingredients/Veggie List.md",
+    "Food/Ingredients/Spices List.md",
+    "Food/Ingredients/Sauces List.md",
+    "Food/Ingredients/Oil List.md",
+    "Food/Ingredients/Baking Ingredients List.md",
+    "Food/Ingredients/Canned Goods List.md",
+    "Food/Ingredients/Grains List.md",
+    "Food",
+    "Cube Escape.md",
+    "Food/Recipes/Burrito.md",
+    "Das Manifest der anders-Denglischen.md",
+    "Freunde als Textarten.md",
+    "Food/Menu.md",
+    "Food/Recipes/Tofu Katsu.md",
+    "ZMeta/Templates/Recipe.md",
+    "ZMeta/Attachments/Pasted image 20240713190935.png",
+    "ZMeta/Attachments/Pasted image 20240713190943.png",
+    "ZMeta/Attachments/Pasted image 20240802103240.png",
     "ZMeta/Attachments/Pasted image 20240802104650.png",
     "ZMeta/Attachments/Pasted image 20240802104009.png",
     "ZMeta/Attachments/Pasted image 20240802103829.png",
-    "ZMeta/Attachments/Pasted image 20240802103240.png",
-    "ZMeta",
-    "ZMeta/Attachments/Pasted image 20240713190935.png",
-    "ZMeta/Attachments/Pasted image 20240713190943.png",
+    "Excalidraw",
+    "Projects",
+    "Music/Throat singing",
+    "Arts and Crafts",
+    "Music",
+    "Food/Food Truck/Kostenabschätzung.loom",
+    "Projects/Nerdy Gurdy",
     "Untitled.canvas",
     "Dungeons and Dragons/Attachments/Maps/Icewind Dale/Caves of Hunger.jpg"
   ]

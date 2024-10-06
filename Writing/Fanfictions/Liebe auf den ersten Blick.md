@@ -1,0 +1,10 @@
+---
+tags: fanfiction
+---
+ 
+### Die Geschichte einer undeterminierten Sommerromanze.
+
+"Und diesen Java Compiler habe ich tatsächlich mit eben jenen Mikroprogrammen geschrieben. Ja..." 
+Ich stehe vorne im Hörsaal und erzähle, ein wenig irritiert durch eine Interaktion am Morgen, den Studenten von meinem Wochenend-Projekt. Eigentlich hatte ich geplant, ihnen heute Assembly näherzubringen, doch schweife ich wieder in meine privaten Unternehmungen aus, wie es ach so oft passiert. 
+"Ein neuer Professor …", meine Gedanken wandern zurück zu heute Morgen. Mein guter Freund Prestel und ich holten uns einen Kaffee, und in unserem üblichen Gossip erzählte er mir von den Neuigkeiten. "Ja, des soll ja einen neun Professoren an der Uni geben, gäll? Ein Mathematiker, gäll, wir haben ja nicht genug, die die Mathematik-Vorlesungen machen, gäll, ja, das ist doch genial, gäll? Elmar, sehen Sie das?". Mathematiker … es stimmt natürlich, dass wir mehr davon benötigen, um den Studienplan so vermitteln zu können, wie er aktuell vorgesehen ist. Dennoch, ich kann das nur belächeln. Sobald ich das P-NP-Problem löse und als Gott auf die Welt blicke, haben sie und ihre Lehre keinerlei Nutzen mehr.
+Ehe ich es mich versehe, bemerke ich, wie die ersten Studenten aufstehen und gehen. Nach einem kurzen Blick auf meine Uhr merke ich, dass die Vorlesung tatsächlich in 2 Minuten aus ist. Nach einigen Abschlusssätzen donnert das dankbare Klopfen der Studenten durch den Raum, bevor auch ich mich auf den Weg in die Mittagspause mache. In den Gängen des S-Gebäudes strahlt die warme Mittagssonne durch die großen Fensterwände, das perfekte Frühlingswetter. Sowie das Licht meine Haut trifft, macht mein Herz kleine Freudenhüpfer, ja lässt mich nahezu die Stimmung, die ich seit dem Morgen übermäßig in mir trage, vergessen. 

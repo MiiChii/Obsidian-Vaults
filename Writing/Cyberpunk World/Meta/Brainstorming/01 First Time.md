@@ -1,0 +1,42 @@
+---
+tags: arcanePunk
+---
+ 
+
+- Magic + Steampunk, Magicpunk? (A quick google search gave me the term "Arcanepunk", I likey)
+- Magic System: 
+	- Sehr Wissenschaftlich
+	- Es gibt nur sehr wenige "[[Magier]]" im klassischen Sinne (old)und wenn dann sind diese Künstler o. Ä.
+	- Es gibt Wesen ([[Dämonen]]?), die in ihrer Natur Magie anwenden können (Höhere Wesen, 4. Dimension, etc.?)
+	- Menschen, die Magie benutzen können, gibt es nur extrem wenige. Die, die es können, haben ein dunkles Geheimnis... Sie haben irgendwie die Kräfte der [[Dämonen]] sich zu Sklaven gemacht, sie getötet, etc.
+	- Frage: Wie forschen Wissenschaftler? Wissen sie von den Dämonen? Wenn ja, wie unterscheiden sie sich moralisch von "Magiern"? Wie könnte ich gestalten, dass sie nicht von den [[Dämonen]] wissen?
+		- Staatliche Sache? Der Staat hält den Ursprung der Magie geheim, es gibt spezielle staatliche Einheiten, die Magie beherrschen? (Inspiration: Tokyo Ghoul, AoT)
+			- Wrsl eher nicht, das soll eher so ne underground Sache sein wrsl
+			- Oder doch? Elaborate further: Einschub links
+		- Es ist eine Staatliche Sache, jedoch auch wenige übliche Menschen gelangen in das Geschehen und "erlernen" Magie
+		- Vll sind die [[Dämonen]] allgemein bekannter Fakt? Nur die Grausamkeiten, die mit ihrem Nutzen für direkte Magie angerichtet werden, sind unbekannt?
+		- Vll lassen die [[Dämonen]] eine Spur ihrer Magie auf der Welt? Für die direkte Nutzung muss man mit den [[Dämonen]] selbst interagieren, sie versklaven o. Ä., für die wissenschaftliche Forschung und Verbauung der Magie reichen die Rückstände? Weil man diese durch Wissenschaftliche Mittel als Resource verwenden kann. Wie mit Strom, ein Mensch kann keinen Blitz schießen aber wir können eine Maschine bauen die es kann. 
+		- Aus der Sicht der Bevölkerung ist Magie irgendein Hokus Pokus, aus der Sicht der Wissenschaft eine unerklärbare, aber omnipräsente Ressource (Etwa in Form von Energie). Von den [[Dämonen]] wissen nur die wenigsten. 
+	- Spontane offene Fragen: 
+		- Wie kriegen [[Magier]] durch Ausbeutung der [[Dämonen]] ihre Kräfte? (→ Indem die Dämonen durch Maschinen manifestiert werden, man sie bluten lässt und sich ihr Blut ins Auge gibt)
+		- Wer genau sind die [[Dämonen]]?
+		- Woher haben die [[Dämonen]] ihre Macht?
+- Steampunk Elemente:
+	- Die Magie besteht lediglich in der Macht, Kräfte auf Objekte über Distanz auszuüben. Es ist also eine neue Kraftquelle. (STEAM-punk → ARCANE-punk, statt Steam als Quelle für Kraft...)
+	- Die magische Ressource ist BEGRENZT!!! Sie ist jedoch so stark und allgegenwärtig, dass es unglaublich lange dauert bist sie auch nur an einem Ort aufgebraucht ist.
+	- Spontane Ideen für Erfindungen und ihre Funktionsweisen:
+		- Grundbaustein
+			- Ein sehr sehr kleines Gerät, eine Art Schaltkreis, der umliegende Magie-Ressourcen bewegen kann. Dieses Gerät beinhaltet einen kleinen Stein, der eine sehr hoch konzentrierte, fest-gewordene Version der Ressource ist. Zwischen den einzelnen Partikeln herrschen Anziehungskräfte, wenn man den Stein auf eine bestimmte Weise dreht, wirkt sich das auf die umliegenden Partikel aus. Wenn man mehrerer dieser Steine aneinanderreiht, und sie dann unabhängig voneinander dreht, wirkt sich das mathematisch vorhersehbar auf eine bestimmte Weise aus. z.B. zwei Steine: x y liegen aneinander. x wird nach oben gedreht, y nach rechts, durch Raumgeometrie kann man nun berechnen wie genau sich umliegende Magie verändert. 
+			- Es gibt auch ein Material / Materialien, die Magie-undurchlässig sind, die man als Schutzplatten an die "Bits" anbauen kann, um nur die Ressource in einem bestimmten cone zu beeinflussen.
+			- Die Stärke der Bewegung der Kristalle ändert die Stärke der Magie
+		- Werkzeuge und Waffen
+			- Eine Energie-Kanone, bei der die magischen Kräfte in einem Punkt konzentriert werden, auf einen bestimmten Gegenstand, der Energie aufnimmt und sich ruckartig entlädt
+			- Exoskelette, die deine Körperbewegungen als Input nehmen, und simple (fake-) Sorcery ermöglichen
+- Conclusion: Meine Arcanepunk-Welt
+	- Es gibt eine magische Ressource, die omnipräsent ist und Kraft auf umliegende Materie auswirken kann.
+	- [[Dämonen]] können diese magische Ressource erschaffen und beliebig manipulieren.
+	- Die Menschen kamen in die Welt, die [[Dämonen]] verschwanden langsam.
+	- Manche Menschen, u. A. der Staat, begannen [[Dämonen]] zu versklaven, um ihre Macht zu nutzen.
+	- Währenddessen erfand die Wissenschaft eine Möglichkeit, die Magie zu manipulieren, durch sich selbst.
+	- Die Wissenschaft erfand unter Nutzung von Grundbausteinen etliche Verschiedene Maschinen, die der Menschheit sowohl Wohlstand als auch Krieg gebracht haben. 
+- Next up: STORY

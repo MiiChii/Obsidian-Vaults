@@ -40,5 +40,6 @@
   "propertiesInDocument": "hidden",
   "livePreview": false,
   "attachmentFolderPath": "ZMeta/Attachments",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "promptDelete": false
 }

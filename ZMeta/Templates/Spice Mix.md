@@ -1,5 +1,5 @@
 ---
-tags: spices, spicemix
+tags: ingredients
 ---
 
 ### Ingredients

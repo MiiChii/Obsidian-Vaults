@@ -4,7 +4,15 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "app:open-settings",
+      "icon": "lucide-settings",
+      "name": "Open settings",
+      "mode": "any",
+      "color": "#000000"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
@@ -13,7 +21,21 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Create loom",
+      "Export Vault to HTML",
+      "Create new drawing",
+      "Create new board",
+      "Open Leaflet Map",
+      "Initiative Tracker Encounter Builder",
+      "Open Full Calendar",
+      "Open Creature Pane",
+      "Open Creature pane",
+      "Advanced Tables Toolbar",
+      "Open random note",
+      "Open today's daily note",
+      "Create new canvas"
+    ]
   },
   "spacing": "8",
   "advancedToolbar": {

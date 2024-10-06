@@ -6,10 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiContainer",
-      "LiSprayCan",
-      "LiLaugh",
-      "LiMenuSquare"
+      "FasScrewdriverWrench",
+      "SiDungeonsanddragons",
+      "RaKnifeFork",
+      "TiBooks",
+      "FasBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -19,9 +20,9 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
-    "iconInTitleEnabled": false,
-    "iconInTitlePosition": "above",
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
@@ -32,7 +33,11 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Real Life stuff/Fun": "LiLaugh",
-  "Arts and Crafts/Cooking/Ingredients/Ingredients.md": "LiContainer",
-  "Arts and Crafts/Cooking/Menu.md": "LiMenuSquare"
+  "Food/Ingredients.md": "FasWineBottle",
+  "Food/Menu.md": "BoBxFoodMenu",
+  "Food/Foodtruck Menu.md": "BoBxFoodMenu",
+  "Food/Recipes": "TiBooks",
+  "Food": "RaKnifeFork",
+  "Dungeons and Dragons": "SiDungeonsanddragons",
+  "Projects": "FasScrewdriverWrench"
 }

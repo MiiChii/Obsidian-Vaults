@@ -1,0 +1,22 @@
+---
+tags: arcanePunk
+---
+ 
+- Voller Name: 
+- Alter: 181
+- Charaktereigenschaften:
+	- Manipulativ
+	- Charismatisch
+	- Kalt, empathielos
+	- Idealistisch
+	- Extrem intelligent
+- Ziele:
+	- Möchte zu einem gottgleichen Wesen aufsteigen (ist er bereits nahezu). Im fehlt v.a. die Macht, zu erschaffen. Er kann nur das existierende Velaris kontrollieren, jedoch kein neues erschaffen.
+	- Will eine Welt erschaffen, die nach seinen Idealen geformt ist
+- Ideale:
+	- Niedere Menschen haben kein Leben verdient.
+- Hat sich kurz vor/während der Revolution mit einem Dämon vertraut gemacht und eine Verbindung zu ihm aufgebaut
+- Diesen Dämon hat er tief emotional manipuliert, bis zu dem Punkt, wo er ihn dazu gebracht hat, sich selbst zu manifestieren, wodurch er ihn umbringen konnte.
+- Mit dem wenigen Augen-Blut, dass er dadurch erhalten hat, hat er einen weiteren Dämon gefunden und innerhalb von wenigen Tagen versklavt
+- Corvus ist immer auf der Suche nach weiteren Dämonen. Wenn er erfährt, dass irgendwo ein anderer Magier existiert, nimmt er diesen den Dämonen ab, ohne Rücksicht auf die Person. 
+- Mittlerweile hat er 7 Dämonen (kürzlich 8, doch einer wurde befreit) eingesperrt und zapft ständig ihr Blut ab, mehrmals am Tag, wodurch er, allein in der Kontrolle über Velaris, bereits viel stärker ist als ein Dämon selbst. 

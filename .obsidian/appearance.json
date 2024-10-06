@@ -1,4 +1,13 @@
 {
   "accentColor": "",
-  "baseFontSize": 25
+  "baseFontSize": 25,
+  "cssTheme": "AnuPpuccin",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "minimal-cards",
+    "extended-colorschemes",
+    "notion-cards",
+    "floating-search-bar",
+    "floating-status-bar"
+  ]
 }

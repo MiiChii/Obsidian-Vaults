@@ -1,6 +1,128 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#nerdyGurdy",
+          "hierarchy": false
+        }
+      },
+      "newNotesFolder": "Projects/Nerdy Gurdy",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "tags"
+            ],
+            "fieldConfig": {
+              "path": {
+                "width": 311
+              },
+              "name": {
+                "hide": false
+              },
+              "kanban-plugin": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d3a217a6-05d6-4e9d-bb2a-ec22ce4d4cd3",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "19916a85-6dae-4bb9-acc6-9da5bfd1040c",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "44dd918a-349a-40da-ab33-a0331bb3f00d",
+      "name": "Nerdy Gurdy"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/Music Videos",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "2931fec5-3e3f-4888-a84e-32dcf7921256",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "28c5edbe-3e0c-4171-b0aa-2da9554400aa",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "4b35a232-791d-4bf7-b34c-210d12042591",
+      "name": "Music Videos"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,
@@ -10,7 +132,12 @@
     "locale": {
       "firstDayOfWeek": "default"
     },
-    "commands": [],
+    "commands": [
+      {
+        "project": "44dd918a-349a-40da-ab33-a0331bb3f00d",
+        "view": "d3a217a6-05d6-4e9d-bb2a-ec22ce4d4cd3"
+      }
+    ],
     "linkBehavior": "open-editor"
   }
 }
