@@ -2,6 +2,6 @@
 tag: project
 ```
 
-- Nerdy gurdy
+- [[Nerdy Gurdy]]
 - Indoor garden
 - 

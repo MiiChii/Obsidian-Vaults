@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arts and Crafts/Woodwork/Hurdy Gurdy/Nerdy Gurdy.md",
+                "file": "Arts and Crafts/Cooking/Cooking.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arts and Crafts/Woodwork/Hurdy Gurdy/Nerdy Gurdy.md",
+                "file": "Arts and Crafts/Cooking/Cooking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arts and Crafts/Woodwork/Hurdy Gurdy/Nerdy Gurdy.md",
+                "file": "Arts and Crafts/Cooking/Cooking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arts and Crafts/Woodwork/Hurdy Gurdy/Nerdy Gurdy.md"
+                "file": "Arts and Crafts/Cooking/Cooking.md"
               }
             }
           },
@@ -229,8 +229,14 @@
   },
   "active": "9f351e0b50f9f385",
   "lastOpenFiles": [
-    "Arts and Crafts/Woodwork/Hurdy Gurdy/Shopping list.md",
-    "Arts and Crafts/Woodwork/Hurdy Gurdy/Nerdy Gurdy.md",
+    "Arts and Crafts/Cooking/Cooking.md",
+    "Arts and Crafts/Cooking/Food/Food.md",
+    "Arts and Crafts/Cooking/Menu.md",
+    "Arts and Crafts/Cooking/Recipes/Recipes.md",
+    "Arts and Crafts/Woodwork/Nerdy Gurdy/To Do.md",
+    "Arts and Crafts/Woodwork/Nerdy Gurdy/Shopping list.md",
+    "Arts and Crafts/Woodwork/Nerdy Gurdy/Nerdy Gurdy.md",
+    "Arts and Crafts/Woodwork/Nerdy Gurdy/3D Print list.md",
     "Projects/Planned Projects.md",
     "Real Life stuff/Hobbies (Inspiration what to do when you're bored).md",
     "Projects",
@@ -238,37 +244,31 @@
     "Arts and Crafts/Music/Throat singing",
     "Arts and Crafts",
     "Arts and Crafts/Music",
-    "Arts and Crafts/Woodwork/Hurdy Gurdy/To Do.md",
-    "Arts and Crafts/Woodwork/Hurdy Gurdy/3D Print list.md",
     "Arts and Crafts/Cooking/Food Truck/Kostenabschätzung.loom",
-    "Arts and Crafts/Woodwork/Hurdy Gurdy",
+    "Arts and Crafts/Woodwork/Nerdy Gurdy",
     "Arts and Crafts/Woodwork",
-    "Arts and Crafts/Cooking/Food/Recipes/Butter Chicken.md",
-    "Arts and Crafts/Cooking/Food/Menu.md",
+    "Arts and Crafts/Cooking/Recipes/Butter Chicken.md",
     "Arts and Crafts/Cooking/Food Truck/Speisekarte.md",
-    "Arts and Crafts/Cooking/Food/Recipes/Curry.md",
+    "Arts and Crafts/Cooking/Recipes/Curry.md",
     "Real Life stuff/Cooking/Food Truck/Kostenabschätzung Datei.md",
-    "Arts and Crafts/Cooking/Food/Recipes/Dango.md",
-    "Arts and Crafts/Cooking/Food/Recipes/Gyoza.md",
-    "Arts and Crafts/Cooking/Food/Recipes/Couscous.md",
-    "Arts and Crafts/Cooking/Food/Recipes/Fried Rice.md",
-    "Arts and Crafts/Cooking/Food/Recipes/Naan.md",
+    "Arts and Crafts/Cooking/Recipes/Dango.md",
+    "Arts and Crafts/Cooking/Recipes/Gyoza.md",
+    "Arts and Crafts/Cooking/Recipes/Couscous.md",
+    "Arts and Crafts/Cooking/Recipes/Fried Rice.md",
+    "Arts and Crafts/Cooking/Recipes/Naan.md",
     "Arts and Crafts/Cooking/Food Truck",
-    "Arts and Crafts/Cooking/Food/Recipes/Chili.md",
-    "Arts and Crafts/Cooking/Food/Recipes/Burger.md",
+    "Arts and Crafts/Cooking/Recipes/Chili.md",
+    "Arts and Crafts/Cooking/Recipes/Burger.md",
     "Arts and Crafts/Cooking/Ingredients/Ingredients.md",
-    "Arts and Crafts/Cooking/Food/Recipes/Tofu Katsu.md",
-    "Arts and Crafts/Cooking/Food/Recipes/Enchiladas.md",
-    "Arts and Crafts/Cooking/Food/Recipes/Burrito.md",
-    "Arts and Crafts/Cooking/Food/Recipes/Crunchwraps.md",
+    "Arts and Crafts/Cooking/Recipes/Tofu Katsu.md",
+    "Arts and Crafts/Cooking/Recipes/Enchiladas.md",
+    "Arts and Crafts/Cooking/Recipes/Burrito.md",
     "ZMeta/Attachments/Pasted image 20240802104650.png",
     "ZMeta/Attachments/Pasted image 20240802104009.png",
     "ZMeta/Attachments/Pasted image 20240802103829.png",
     "ZMeta/Attachments/Pasted image 20240802103240.png",
     "ZMeta",
     "ZMeta/Attachments",
-    "Arts and Crafts/Cooking/Ingredients/Spices/Spice Mixes/Ras El Hanout.md",
-    "ZMeta/Templates/Recipe.md",
     "ZMeta/Attachments/Pasted image 20240713190935.png",
     "ZMeta/Attachments/Pasted image 20240713190943.png",
     "Untitled.canvas",
