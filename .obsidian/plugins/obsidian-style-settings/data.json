@@ -71,5 +71,9 @@
   "anuppuccin-theme-settings@@anp-kanban-hide-card-border": false,
   "anuppuccin-theme-settings@@anp-kanban-lane-radius": 6,
   "anuppuccin-theme-settings@@anp-kanban-lane-spacing": 10,
-  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout"
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
+  "anuppuccin-theme-settings@@anp-card-shadows": true,
+  "anuppuccin-theme-settings@@anp-card-layout-actions": false,
+  "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
+  "anuppuccin-theme-settings@@anp-status-bar-select": "none"
 }

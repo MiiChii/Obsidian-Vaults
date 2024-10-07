@@ -6,7 +6,7 @@
       {
         "id": "0dd35ae32283013a",
         "type": "tabs",
-        "dimension": 61.635565312843035,
+        "dimension": 53.373560065825565,
         "children": [
           {
             "id": "a7e9efcd033eda43",
@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food/Ingredients.md",
-                "mode": "preview",
+                "file": "Dungeons and Dragons/Player Characters/Eri.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -25,7 +25,7 @@
       {
         "id": "81a36d39f3f55be9",
         "type": "tabs",
-        "dimension": 38.36443468715697,
+        "dimension": 46.626439934174435,
         "children": [
           {
             "id": "285628c772d160d9",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Food/Ingredients.md",
+                "file": "Dungeons and Dragons/Player Characters/Eri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Food/Ingredients.md",
+                "file": "Dungeons and Dragons/Player Characters/Eri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Food/Ingredients.md"
+                "file": "Dungeons and Dragons/Player Characters/Eri.md"
               }
             }
           }
@@ -208,11 +208,27 @@
   },
   "active": "a7e9efcd033eda43",
   "lastOpenFiles": [
+    "Dungeons and Dragons/Player Characters/Gale.md",
+    "Dungeons and Dragons/Player Characters/Rudmaeus.md",
+    "Dungeons and Dragons/Player Characters/Eri.md",
+    "Dungeons and Dragons/Player Characters/Gwen.md",
+    "Dungeons and Dragons/Player Characters/Melvis.md",
+    "Writing/Cyberpunk World/Meta/Brainstorming/02 Story.md",
+    "Dungeons and Dragons/Player Characters",
+    "Writing/Cyberpunk World/Meta/Brainstorming/01 First Time.md",
+    "Writing/Cyberpunk World/Meta/Setting.md",
+    "Writing/Cyberpunk World/Meta/Characters/Myteriöser Magier.md",
+    "Writing/Cyberpunk World/Meta/Characters/Mark.md",
+    "Writing/Cyberpunk World/Meta/Characters/König Corvus.md",
+    "Writing/Cyberpunk World/Meta/Characters/Kats Demon Friend.md",
+    "Projects/Nerdy Gurdy/To Do.md",
+    "Projects/Nerdy Gurdy/Shopping list.md",
+    "Projects/Nerdy Gurdy/3D Print list.md",
+    "Food/Ingredients.md",
     "Food/Menu.md",
+    "Food/Foodtruck Menu.md",
     "Projects/Projects.md",
     "Creative Folder/Cube Escape.md",
-    "Projects/Nerdy Gurdy/To Do.md",
-    "Food/Foodtruck Menu.md",
     "Creative Folder/Boredom Inspiration.md",
     "Creative Folder/Brainstorming.md",
     "Creative Folder/Das Manifest der anders-Denglischen.md",
@@ -220,26 +236,11 @@
     "Creative Folder/Wishlist.md",
     "Projects.md",
     "Creative Folder",
-    "Dungeons and Dragons/Bestiary/Chardalyn Dragon.md",
-    "Dungeons and Dragons/Atlas/Sword Coast.md",
-    "Dungeons and Dragons/Settings/DnD/Atlas/Atlas.md",
-    "Dungeons and Dragons/Atlas/Icewind Dale.md",
-    "Dungeons and Dragons/Atlas/Icespire Hold.md",
-    "Dungeons and Dragons/To Do.md",
-    "Dungeons and Dragons/Settings/Arcanepunk/Campaigns/Mia Steve Nick Gumbo Debby/Characters/Players/Steve.md",
-    "Dungeons and Dragons/Settings/Arcanepunk/Campaigns/Mia Steve Nick Gumbo Debby/Characters/Players/Nick.md",
-    "Dungeons and Dragons/Settings/Arcanepunk/Campaigns/Mia Steve Nick Gumbo Debby/Characters/Players/Mia.md",
-    "Dungeons and Dragons/Settings/Arcanepunk/Campaigns/Mia Steve Nick Gumbo Debby/Characters/Players/Gumbo.md",
-    "Dungeons and Dragons/Settings/Arcanepunk/Campaigns/Mia Steve Nick Gumbo Debby/Characters/Players/Debby.md",
-    "ZMeta/Attachments/GeoJsons.md",
     "ZMeta/Attachments/Icespire Hold.jpg",
     "ZMeta/Attachments/Icewind Dale.png",
     "ZMeta/Attachments/Caves of Hunger.jpg",
     "ZMeta/Attachments/Caves of Hunger PV.jpg",
     "Projects/Music Videos",
-    "Projects/Nerdy Gurdy/3D Print list.md",
-    "Projects/Nerdy Gurdy/Shopping list.md",
-    "Test.md",
     "Projects",
     "Food",
     "ZMeta/Attachments/Pasted image 20240713190935.png",
@@ -253,7 +254,6 @@
     "Music/Throat singing",
     "Arts and Crafts",
     "Music",
-    "Food/Food Truck/Kostenabschätzung.loom",
     "Untitled.canvas"
   ]
 }

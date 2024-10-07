@@ -10,7 +10,7 @@ tags: nerdyGurdy
 - [ ] Add design to lid
 - [ ] Change wheel design
 - [ ] Add sound-holes
-- [ ] Buy [[Shopping list|materials]]
+- [ ] [[Shopping list|Buy materials]]
 - [ ] Buy strings
 
 
