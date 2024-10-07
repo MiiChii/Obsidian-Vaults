@@ -17,7 +17,7 @@ tags: nerdyGurdy
 ## Building
 
 - [ ] Cut and engrave wood
-- [ ] 3D Print parts
+- [ ] [[3D Print list|3D Print parts]]
 - [ ] Build a gurdy
 - [ ] Stain and colour
 

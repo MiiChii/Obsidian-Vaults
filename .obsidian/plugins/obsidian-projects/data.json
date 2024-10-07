@@ -8,10 +8,10 @@
       "excludedNotes": [],
       "isDefault": false,
       "dataSource": {
-        "kind": "tag",
+        "kind": "folder",
         "config": {
-          "tag": "#nerdyGurdy",
-          "hierarchy": false
+          "path": "Projects/Nerdy Gurdy",
+          "recursive": false
         }
       },
       "newNotesFolder": "Projects/Nerdy Gurdy",
@@ -48,24 +48,6 @@
           "id": "d3a217a6-05d6-4e9d-bb2a-ec22ce4d4cd3",
           "name": "Table",
           "type": "table"
-        },
-        {
-          "config": {
-            "interval": "month"
-          },
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "19916a85-6dae-4bb9-acc6-9da5bfd1040c",
-          "name": "Calendar",
-          "type": "calendar"
         }
       ],
       "id": "44dd918a-349a-40da-ab33-a0331bb3f00d",

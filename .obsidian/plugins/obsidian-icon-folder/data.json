@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasScrewdriverWrench",
-      "SiDungeonsanddragons",
-      "RaKnifeFork",
-      "TiBooks",
-      "FasBook"
+      "FasLightbulb",
+      "BoBxsBrain",
+      "FasBrain",
+      "FasBookOpen",
+      "FasScrewdriverWrench"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,7 @@
   "Food/Recipes": "TiBooks",
   "Food": "RaKnifeFork",
   "Dungeons and Dragons": "SiDungeonsanddragons",
-  "Projects": "FasScrewdriverWrench"
+  "Writing": "FasBookOpen",
+  "Projects": "FasScrewdriverWrench",
+  "Creative Folder": "FasLightbulb"
 }

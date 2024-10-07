@@ -30,7 +30,7 @@
   ],
   "showLineNumber": true,
   "rightToLeft": false,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "strictLineBreaks": false,
   "useTab": true,
   "smartIndentList": true,
@@ -41,5 +41,6 @@
   "livePreview": false,
   "attachmentFolderPath": "ZMeta/Attachments",
   "showUnsupportedFiles": true,
-  "promptDelete": false
+  "promptDelete": true,
+  "trashOption": "system"
 }

@@ -12,18 +12,11 @@
             "id": "a7e9efcd033eda43",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Projects.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Food/Ingredients.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -110,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Food/Ingredients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +120,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Food/Ingredients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "e02fec6c89cb45f4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
             }
           },
           {
@@ -181,9 +168,19 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "eecf22b4f691bae6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Food/Ingredients.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,36 +206,42 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "285628c772d160d9",
+  "active": "a7e9efcd033eda43",
   "lastOpenFiles": [
+    "Food/Menu.md",
     "Projects/Projects.md",
-    "Projects/Music Videos",
-    "Brainstorming.md",
+    "Creative Folder/Cube Escape.md",
     "Projects/Nerdy Gurdy/To Do.md",
+    "Food/Foodtruck Menu.md",
+    "Creative Folder/Boredom Inspiration.md",
+    "Creative Folder/Brainstorming.md",
+    "Creative Folder/Das Manifest der anders-Denglischen.md",
+    "Creative Folder/Freunde als Textarten.md",
+    "Creative Folder/Wishlist.md",
+    "Projects.md",
+    "Creative Folder",
+    "Dungeons and Dragons/Bestiary/Chardalyn Dragon.md",
+    "Dungeons and Dragons/Atlas/Sword Coast.md",
+    "Dungeons and Dragons/Settings/DnD/Atlas/Atlas.md",
+    "Dungeons and Dragons/Atlas/Icewind Dale.md",
+    "Dungeons and Dragons/Atlas/Icespire Hold.md",
+    "Dungeons and Dragons/To Do.md",
+    "Dungeons and Dragons/Settings/Arcanepunk/Campaigns/Mia Steve Nick Gumbo Debby/Characters/Players/Steve.md",
+    "Dungeons and Dragons/Settings/Arcanepunk/Campaigns/Mia Steve Nick Gumbo Debby/Characters/Players/Nick.md",
+    "Dungeons and Dragons/Settings/Arcanepunk/Campaigns/Mia Steve Nick Gumbo Debby/Characters/Players/Mia.md",
+    "Dungeons and Dragons/Settings/Arcanepunk/Campaigns/Mia Steve Nick Gumbo Debby/Characters/Players/Gumbo.md",
+    "Dungeons and Dragons/Settings/Arcanepunk/Campaigns/Mia Steve Nick Gumbo Debby/Characters/Players/Debby.md",
+    "ZMeta/Attachments/GeoJsons.md",
+    "ZMeta/Attachments/Icespire Hold.jpg",
+    "ZMeta/Attachments/Icewind Dale.png",
+    "ZMeta/Attachments/Caves of Hunger.jpg",
+    "ZMeta/Attachments/Caves of Hunger PV.jpg",
+    "Projects/Music Videos",
     "Projects/Nerdy Gurdy/3D Print list.md",
     "Projects/Nerdy Gurdy/Shopping list.md",
     "Test.md",
-    "Projects/Nerdy Gurdy/Nerdy Gurdy.md",
     "Projects",
-    "Food/Foodtruck Menu.md",
-    "Food/Recipes/Ras El Hanout.md",
-    "Food/Ingredients.md",
-    "Food/Ingredients/Vinegar List.md",
-    "Food/Ingredients/Veggie List.md",
-    "Food/Ingredients/Spices List.md",
-    "Food/Ingredients/Sauces List.md",
-    "Food/Ingredients/Oil List.md",
-    "Food/Ingredients/Baking Ingredients List.md",
-    "Food/Ingredients/Canned Goods List.md",
-    "Food/Ingredients/Grains List.md",
     "Food",
-    "Cube Escape.md",
-    "Food/Recipes/Burrito.md",
-    "Das Manifest der anders-Denglischen.md",
-    "Freunde als Textarten.md",
-    "Food/Menu.md",
-    "Food/Recipes/Tofu Katsu.md",
-    "ZMeta/Templates/Recipe.md",
     "ZMeta/Attachments/Pasted image 20240713190935.png",
     "ZMeta/Attachments/Pasted image 20240713190943.png",
     "ZMeta/Attachments/Pasted image 20240802103240.png",
@@ -251,8 +254,6 @@
     "Arts and Crafts",
     "Music",
     "Food/Food Truck/Kostenabschätzung.loom",
-    "Projects/Nerdy Gurdy",
-    "Untitled.canvas",
-    "Dungeons and Dragons/Attachments/Maps/Icewind Dale/Caves of Hunger.jpg"
+    "Untitled.canvas"
   ]
 }
