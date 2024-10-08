@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasGraduationCap",
       "FasLightbulb",
       "BoBxsBrain",
       "FasBrain",
-      "FasBookOpen",
-      "FasScrewdriverWrench"
+      "FasBookOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "Dungeons and Dragons": "SiDungeonsanddragons",
   "Writing": "FasBookOpen",
   "Projects": "FasScrewdriverWrench",
-  "Creative Folder": "FasLightbulb"
+  "Creative Folder": "FasLightbulb",
+  "Uni": "FasGraduationCap"
 }
