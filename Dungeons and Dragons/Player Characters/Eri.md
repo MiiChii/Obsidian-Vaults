@@ -2,8 +2,7 @@
 player: mia
 ---
 
-Mias description:
--Tech-Freak 
+- Tech-Freak 
 - Self-taught -> resulting in quite a few accidents and numerous explosions inside her run down garage.
 - [[Velaris]]-Gagdets hardly ever work
 - sells them effectively as scams on the black market -> got a few wanted posters in exchange (nothing major, though...)

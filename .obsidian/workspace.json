@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Software Engineering/Übung 1.md",
+                "file": "Dungeons and Dragons/Player Characters/Gwen.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/Software Engineering/Übung 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/Software Engineering/Übung 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Uni/Software Engineering/Übung 1.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -206,18 +202,18 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "a7e9efcd033eda43",
+  "active": "285628c772d160d9",
   "lastOpenFiles": [
-    "ZMeta/Attachments/Pasted image 20241008134025.png",
-    "Uni/Software Engineering/Untitled.canvas",
-    "Uni/Software Engineering/Übung 1.md",
-    "Dungeons and Dragons/Player Characters/Eri.md",
-    "Uni/Software Engineering",
-    "Uni",
-    "Dungeons and Dragons/Player Characters/Gale.md",
-    "Dungeons and Dragons/Player Characters/Rudmaeus.md",
     "Dungeons and Dragons/Player Characters/Gwen.md",
     "Dungeons and Dragons/Player Characters/Melvis.md",
+    "Dungeons and Dragons/Player Characters/Rudmaeus.md",
+    "Dungeons and Dragons/Player Characters/Eri.md",
+    "Dungeons and Dragons/Player Characters/Gale.md",
+    "Uni/Software Engineering/Übung 1.md",
+    "ZMeta/Attachments/Pasted image 20241008134025.png",
+    "Uni/Software Engineering/Untitled.canvas",
+    "Uni/Software Engineering",
+    "Uni",
     "Writing/Cyberpunk World/Meta/Brainstorming/02 Story.md",
     "Dungeons and Dragons/Player Characters",
     "Writing/Cyberpunk World/Meta/Brainstorming/01 First Time.md",
@@ -251,7 +247,6 @@
     "ZMeta/Attachments/Pasted image 20240802103240.png",
     "ZMeta/Attachments/Pasted image 20240802104650.png",
     "ZMeta/Attachments/Pasted image 20240802104009.png",
-    "ZMeta/Attachments/Pasted image 20240802103829.png",
     "Excalidraw",
     "Projects",
     "Music/Throat singing",

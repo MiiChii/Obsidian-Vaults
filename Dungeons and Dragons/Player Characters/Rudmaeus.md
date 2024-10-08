@@ -11,7 +11,7 @@ Properties: Short blonde hair, no beard (won't grow :c ), a few scars on forearm
 Fighting: Try not to leave permanent damage, mostly using mii Hot n Cold utilitii knife, but I would also swing my wrench, though I am not a fighter, but a thinker and iiet even more, a talker. Because everii enemii can become an allii in the future. 
 
 Familii: 
-	Father: `~(redacted)`
+	Father: `~(redacted redacted)`
 	Mother: Linda `~(redacted)` (deceased when i was 6) 
 
 
