@@ -6,7 +6,6 @@
       {
         "id": "0dd35ae32283013a",
         "type": "tabs",
-        "dimension": 53.373560065825565,
         "children": [
           {
             "id": "a7e9efcd033eda43",
@@ -14,30 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeons and Dragons/Player Characters/Eri.md",
+                "file": "Dungeons and Dragons/Player Characters/Melvis.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "af351bad33af6888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
-      },
-      {
-        "id": "81a36d39f3f55be9",
-        "type": "tabs",
-        "dimension": 46.626439934174435,
-        "children": [
-          {
-            "id": "285628c772d160d9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "pinned": true
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "75ea99caa1e7f968",
@@ -103,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeons and Dragons/Player Characters/Eri.md",
+                "file": "Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons and Dragons/Player Characters/Eri.md",
+                "file": "Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeons and Dragons/Player Characters/Eri.md"
+                "file": "Code.md"
               }
             }
           }
@@ -184,10 +179,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Open settings": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -196,23 +197,19 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "cmdr:Open settings": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a7e9efcd033eda43",
+  "active": "af351bad33af6888",
   "lastOpenFiles": [
+    "Dungeons and Dragons/Player Characters/Melvis.md",
+    "Code.md",
+    "Dungeons and Dragons/Player Characters/Eri.md",
     "Dungeons and Dragons/Player Characters/Gale.md",
     "Dungeons and Dragons/Player Characters/Rudmaeus.md",
-    "Dungeons and Dragons/Player Characters/Eri.md",
     "Dungeons and Dragons/Player Characters/Gwen.md",
-    "Dungeons and Dragons/Player Characters/Melvis.md",
     "Writing/Cyberpunk World/Meta/Brainstorming/02 Story.md",
     "Dungeons and Dragons/Player Characters",
     "Writing/Cyberpunk World/Meta/Brainstorming/01 First Time.md",
@@ -234,7 +231,6 @@
     "Creative Folder/Das Manifest der anders-Denglischen.md",
     "Creative Folder/Freunde als Textarten.md",
     "Creative Folder/Wishlist.md",
-    "Projects.md",
     "Creative Folder",
     "ZMeta/Attachments/Icespire Hold.jpg",
     "ZMeta/Attachments/Icewind Dale.png",
