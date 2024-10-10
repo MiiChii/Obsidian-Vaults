@@ -9,5 +9,5 @@ Einige berühmte Apokrylogen sind:
  - [[Aamon Vel]]: Der Entdecker und Namensvater der [[Vel-Partikel]]
  - (Hat die Anziehungskräfte zwischen den Partikeln entdeckt)
  - (Hat die Wechselkräfte zwischen Materie und Partikeln entdeckt)
- - [[Krestin Bord]] (Hat den ersten Vel-Stein erschaffen und den Velbit erfunden)
+ - [[Krestin Stone]] (Hat den ersten Vel-Stein erschaffen und den Velbit erfunden)
  - 

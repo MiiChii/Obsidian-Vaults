@@ -237,6 +237,20 @@
       "startCount": 4606,
       "endCount": 4606,
       "date": "Tue Oct 08 2024 00:00:00 GMT+0200"
+    },
+    {
+      "dailyGoal": 500,
+      "goal": 0,
+      "startCount": 4606,
+      "endCount": 4606,
+      "date": "Wed Oct 09 2024 00:00:00 GMT+0200"
+    },
+    {
+      "dailyGoal": 500,
+      "goal": 0,
+      "startCount": 4606,
+      "endCount": 4606,
+      "date": "Thu Oct 10 2024 00:00:00 GMT+0200"
     }
   ],
   "Writing": [
@@ -475,8 +489,22 @@
       "dailyGoal": 1000,
       "goal": 0,
       "startCount": 7011,
-      "endCount": 7011,
+      "endCount": 8998,
       "date": "Tue Oct 08 2024 00:00:00 GMT+0200"
+    },
+    {
+      "dailyGoal": 1000,
+      "goal": 0,
+      "startCount": 8998,
+      "endCount": 8998,
+      "date": "Wed Oct 09 2024 00:00:00 GMT+0200"
+    },
+    {
+      "dailyGoal": 1000,
+      "goal": 0,
+      "startCount": 8998,
+      "endCount": 8998,
+      "date": "Thu Oct 10 2024 00:00:00 GMT+0200"
     }
   ],
   "Arts and Crafts/Writing": [

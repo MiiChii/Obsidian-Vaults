@@ -6,7 +6,7 @@
       {
         "id": "0dd35ae32283013a",
         "type": "tabs",
-        "dimension": 53.373560065825565,
+        "dimension": 55.09736540664376,
         "children": [
           {
             "id": "a7e9efcd033eda43",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeons and Dragons/Player Characters/Gwen.md",
+                "file": "Writing/Cyberpunk World/World Building/Apokryphen/Der Dämonenkönig.md",
                 "mode": "preview",
                 "source": true
               }
@@ -25,7 +25,7 @@
       {
         "id": "81a36d39f3f55be9",
         "type": "tabs",
-        "dimension": 46.626439934174435,
+        "dimension": 44.90263459335624,
         "children": [
           {
             "id": "285628c772d160d9",
@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Writing/Cyberpunk World/World Building/Apokryphen/Der Dämonenkönig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Writing/Cyberpunk World/World Building/Apokryphen/Der Dämonenkönig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Writing/Cyberpunk World/World Building/Apokryphen/Der Dämonenkönig.md"
+              }
             }
           }
         ],
@@ -180,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,38 +207,40 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "285628c772d160d9",
+  "active": "a7e9efcd033eda43",
   "lastOpenFiles": [
-    "Dungeons and Dragons/Player Characters/Gwen.md",
-    "Dungeons and Dragons/Player Characters/Melvis.md",
-    "Dungeons and Dragons/Player Characters/Rudmaeus.md",
-    "Dungeons and Dragons/Player Characters/Eri.md",
-    "Dungeons and Dragons/Player Characters/Gale.md",
+    "Projects/Nerdy Gurdy/To Do.md",
+    "Writing/Cyberpunk World/DnD/Player Characters/Gale.md",
+    "Writing/Cyberpunk World/Meta/Timeline.md",
+    "Writing/Cyberpunk World/Meta/Brainstorming/Ideas for places.md",
+    "Writing/Cyberpunk World/DnD/Campaign notes.md",
+    "Writing/Cyberpunk World/DnD/Main story snippets.md",
+    "Mag.md",
+    "Projects/Nerdy Gurdy/Shopping list.md",
+    "Projects/Nerdy Gurdy/3D Print list.md",
+    "Writing/Cyberpunk World/World Building/Personenverzeichnis/Aamon Vel.md",
+    "Writing/Cyberpunk World/World Building/Personenverzeichnis/König Reym Corvus I.md",
+    "Writing/Cyberpunk World/World Building/Personenverzeichnis/Krestin Stone.md",
+    "Food/Menu.md",
+    "Food/Ingredients.md",
+    "Food/Foodtruck Menu.md",
+    "Writing/Cyberpunk World/Meta/Setting.md",
+    "Writing/Cyberpunk World/World Building/Atlas/Länder/Landname.md",
+    "Writing/Cyberpunk World/DnD/Player Characters/Rudmaeus.md",
+    "Writing/Cyberpunk World/DnD",
+    "Writing/Cyberpunk World/DnD/Player Characters/Gwen.md",
+    "Writing/Cyberpunk World/DnD/Player Characters/Melvis.md",
+    "Writing/Cyberpunk World/DnD/Player Characters/Eri.md",
     "Uni/Software Engineering/Übung 1.md",
     "ZMeta/Attachments/Pasted image 20241008134025.png",
     "Uni/Software Engineering/Untitled.canvas",
     "Uni/Software Engineering",
     "Uni",
     "Writing/Cyberpunk World/Meta/Brainstorming/02 Story.md",
-    "Dungeons and Dragons/Player Characters",
+    "Writing/Cyberpunk World/DnD/Player Characters",
     "Writing/Cyberpunk World/Meta/Brainstorming/01 First Time.md",
-    "Writing/Cyberpunk World/Meta/Setting.md",
     "Writing/Cyberpunk World/Meta/Characters/Myteriöser Magier.md",
     "Writing/Cyberpunk World/Meta/Characters/Mark.md",
-    "Writing/Cyberpunk World/Meta/Characters/König Corvus.md",
-    "Writing/Cyberpunk World/Meta/Characters/Kats Demon Friend.md",
-    "Projects/Nerdy Gurdy/To Do.md",
-    "Projects/Nerdy Gurdy/Shopping list.md",
-    "Projects/Nerdy Gurdy/3D Print list.md",
-    "Food/Ingredients.md",
-    "Food/Menu.md",
-    "Food/Foodtruck Menu.md",
-    "Projects/Projects.md",
-    "Creative Folder/Cube Escape.md",
-    "Creative Folder/Boredom Inspiration.md",
-    "Creative Folder/Brainstorming.md",
-    "Creative Folder/Das Manifest der anders-Denglischen.md",
-    "Creative Folder/Freunde als Textarten.md",
     "Creative Folder",
     "ZMeta/Attachments/Icespire Hold.jpg",
     "ZMeta/Attachments/Icewind Dale.png",
@@ -249,7 +256,6 @@
     "ZMeta/Attachments/Pasted image 20240802104009.png",
     "Excalidraw",
     "Projects",
-    "Music/Throat singing",
     "Untitled.canvas"
   ]
 }

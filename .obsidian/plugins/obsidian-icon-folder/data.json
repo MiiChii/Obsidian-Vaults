@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiDungeonsanddragons",
       "FasGraduationCap",
       "FasLightbulb",
       "BoBxsBrain",
-      "FasBrain",
-      "FasBookOpen"
+      "FasBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,9 +38,9 @@
   "Food/Foodtruck Menu.md": "BoBxFoodMenu",
   "Food/Recipes": "TiBooks",
   "Food": "RaKnifeFork",
-  "Dungeons and Dragons": "SiDungeonsanddragons",
   "Writing": "FasBookOpen",
   "Projects": "FasScrewdriverWrench",
   "Creative Folder": "FasLightbulb",
-  "Uni": "FasGraduationCap"
+  "Uni": "FasGraduationCap",
+  "Writing/Cyberpunk World/DnD": "SiDungeonsanddragons"
 }
