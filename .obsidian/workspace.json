@@ -6,7 +6,7 @@
       {
         "id": "0dd35ae32283013a",
         "type": "tabs",
-        "dimension": 55.09736540664376,
+        "dimension": 81.81818181818183,
         "children": [
           {
             "id": "a7e9efcd033eda43",
@@ -14,18 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Cyberpunk World/World Building/Apokryphen/Der Dämonenkönig.md",
+                "file": "Uni/Software Engineering/Übung 2.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f8978e15af2f993e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni/Software Engineering/Übung 2.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "81a36d39f3f55be9",
         "type": "tabs",
-        "dimension": 44.90263459335624,
+        "dimension": 18.181818181818183,
         "children": [
           {
             "id": "285628c772d160d9",
@@ -87,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.0086555480957
   },
   "right": {
     "id": "75ea99caa1e7f968",
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Cyberpunk World/World Building/Apokryphen/Der Dämonenkönig.md",
+                "file": "Uni/Software Engineering/Übung 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Cyberpunk World/World Building/Apokryphen/Der Dämonenkönig.md",
+                "file": "Uni/Software Engineering/Übung 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Cyberpunk World/World Building/Apokryphen/Der Dämonenkönig.md"
+                "file": "Uni/Software Engineering/Übung 2.md"
               }
             }
           }
@@ -201,14 +214,23 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-projects:Open projects": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
       "webpage-html-export:Export Vault to HTML": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "cmdr:Open settings": false
     }
   },
-  "active": "a7e9efcd033eda43",
+  "active": "f8978e15af2f993e",
   "lastOpenFiles": [
+    "Uni/Software Engineering/Übung 1.md",
+    "Uni/Software Engineering/Drawing 2024-10-15 01.21.21.excalidraw.md",
+    "Uni/Software Engineering/Übung 2.md",
+    "ZMeta/Attachments/Pasted image 20241015011929.png",
+    "ZMeta/Attachments/Pasted image 20241015004326.png",
+    "ZMeta/Attachments/Pasted image 20241015002017.png",
+    "ZMeta/Attachments/Pasted image 20241014231944.png",
+    "Projects/Nerdy Gurdy/Shopping list.md",
+    "Writing/Cyberpunk World/World Building/Apokryphen/Der Dämonenkönig.md",
     "Projects/Nerdy Gurdy/To Do.md",
     "Writing/Cyberpunk World/DnD/Player Characters/Gale.md",
     "Writing/Cyberpunk World/Meta/Timeline.md",
@@ -216,7 +238,6 @@
     "Writing/Cyberpunk World/DnD/Campaign notes.md",
     "Writing/Cyberpunk World/DnD/Main story snippets.md",
     "Mag.md",
-    "Projects/Nerdy Gurdy/Shopping list.md",
     "Projects/Nerdy Gurdy/3D Print list.md",
     "Writing/Cyberpunk World/World Building/Personenverzeichnis/Aamon Vel.md",
     "Writing/Cyberpunk World/World Building/Personenverzeichnis/König Reym Corvus I.md",
@@ -231,16 +252,12 @@
     "Writing/Cyberpunk World/DnD/Player Characters/Gwen.md",
     "Writing/Cyberpunk World/DnD/Player Characters/Melvis.md",
     "Writing/Cyberpunk World/DnD/Player Characters/Eri.md",
-    "Uni/Software Engineering/Übung 1.md",
     "ZMeta/Attachments/Pasted image 20241008134025.png",
     "Uni/Software Engineering/Untitled.canvas",
     "Uni/Software Engineering",
     "Uni",
     "Writing/Cyberpunk World/Meta/Brainstorming/02 Story.md",
     "Writing/Cyberpunk World/DnD/Player Characters",
-    "Writing/Cyberpunk World/Meta/Brainstorming/01 First Time.md",
-    "Writing/Cyberpunk World/Meta/Characters/Myteriöser Magier.md",
-    "Writing/Cyberpunk World/Meta/Characters/Mark.md",
     "Creative Folder",
     "ZMeta/Attachments/Icespire Hold.jpg",
     "ZMeta/Attachments/Icewind Dale.png",
@@ -250,10 +267,6 @@
     "Projects",
     "Food",
     "ZMeta/Attachments/Pasted image 20240713190935.png",
-    "ZMeta/Attachments/Pasted image 20240713190943.png",
-    "ZMeta/Attachments/Pasted image 20240802103240.png",
-    "ZMeta/Attachments/Pasted image 20240802104650.png",
-    "ZMeta/Attachments/Pasted image 20240802104009.png",
     "Excalidraw",
     "Projects",
     "Untitled.canvas"
