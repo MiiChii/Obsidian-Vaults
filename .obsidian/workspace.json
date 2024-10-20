@@ -6,7 +6,7 @@
       {
         "id": "0dd35ae32283013a",
         "type": "tabs",
-        "dimension": 81.81818181818183,
+        "dimension": 81.81818181818181,
         "children": [
           {
             "id": "a7e9efcd033eda43",
@@ -17,7 +17,9 @@
                 "file": "Uni/Software Engineering/Übung 2.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Übung 2"
             }
           },
           {
@@ -29,16 +31,32 @@
                 "file": "Uni/Software Engineering/Übung 2.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Übung 2"
+            }
+          },
+          {
+            "id": "f7c8b5dc4dbfceee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Mindfall/To Do Morgen.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "To Do Morgen"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "81a36d39f3f55be9",
         "type": "tabs",
-        "dimension": 18.181818181818183,
+        "dimension": 18.18181818181818,
         "children": [
           {
             "id": "285628c772d160d9",
@@ -47,7 +65,9 @@
             "state": {
               "type": "obsidian-projects",
               "state": {},
-              "pinned": true
+              "pinned": true,
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           }
         ]
@@ -70,7 +90,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -85,7 +107,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -93,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -124,7 +150,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Übung 2"
             }
           },
           {
@@ -136,7 +164,9 @@
                 "file": "Uni/Software Engineering/Übung 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Übung 2"
             }
           },
           {
@@ -144,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "writing-goal",
-              "state": {}
+              "state": {},
+              "icon": "writing-goals-radar",
+              "title": "Writing goal"
             }
           },
           {
@@ -155,7 +187,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -163,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -171,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -179,7 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -189,7 +229,9 @@
               "type": "outline",
               "state": {
                 "file": "Uni/Software Engineering/Übung 2.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Übung 2"
             }
           }
         ],
@@ -220,11 +262,20 @@
       "cmdr:Open settings": false
     }
   },
-  "active": "f8978e15af2f993e",
+  "active": "f7c8b5dc4dbfceee",
   "lastOpenFiles": [
+    "Projects/Mindfall/Project/Untitled Kanban.md",
+    "Projects/Mindfall/To Do Morgen.md",
+    "Food/Menu.md",
+    "Projects/Mindfall/Project",
+    "Projects/Mindfall/Untitled",
+    "Projects/Mindfall/Welcome.md",
+    "Projects/Mindfall",
+    "Projects/New folder",
+    "Uni/Software Engineering/Untitled Kanban.md",
+    "Uni/Software Engineering/Übung 2.md",
     "Uni/Software Engineering/Übung 1.md",
     "Uni/Software Engineering/Drawing 2024-10-15 01.21.21.excalidraw.md",
-    "Uni/Software Engineering/Übung 2.md",
     "ZMeta/Attachments/Pasted image 20241015011929.png",
     "ZMeta/Attachments/Pasted image 20241015004326.png",
     "ZMeta/Attachments/Pasted image 20241015002017.png",
@@ -242,21 +293,16 @@
     "Writing/Cyberpunk World/World Building/Personenverzeichnis/Aamon Vel.md",
     "Writing/Cyberpunk World/World Building/Personenverzeichnis/König Reym Corvus I.md",
     "Writing/Cyberpunk World/World Building/Personenverzeichnis/Krestin Stone.md",
-    "Food/Menu.md",
     "Food/Ingredients.md",
     "Food/Foodtruck Menu.md",
     "Writing/Cyberpunk World/Meta/Setting.md",
     "Writing/Cyberpunk World/World Building/Atlas/Länder/Landname.md",
     "Writing/Cyberpunk World/DnD/Player Characters/Rudmaeus.md",
     "Writing/Cyberpunk World/DnD",
-    "Writing/Cyberpunk World/DnD/Player Characters/Gwen.md",
-    "Writing/Cyberpunk World/DnD/Player Characters/Melvis.md",
-    "Writing/Cyberpunk World/DnD/Player Characters/Eri.md",
     "ZMeta/Attachments/Pasted image 20241008134025.png",
     "Uni/Software Engineering/Untitled.canvas",
     "Uni/Software Engineering",
     "Uni",
-    "Writing/Cyberpunk World/Meta/Brainstorming/02 Story.md",
     "Writing/Cyberpunk World/DnD/Player Characters",
     "Creative Folder",
     "ZMeta/Attachments/Icespire Hold.jpg",
@@ -264,11 +310,7 @@
     "ZMeta/Attachments/Caves of Hunger.jpg",
     "ZMeta/Attachments/Caves of Hunger PV.jpg",
     "Projects/Music Videos",
-    "Projects",
-    "Food",
     "ZMeta/Attachments/Pasted image 20240713190935.png",
-    "Excalidraw",
-    "Projects",
     "Untitled.canvas"
   ]
 }
