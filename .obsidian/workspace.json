@@ -6,6 +6,10 @@
       {
         "id": "0dd35ae32283013a",
         "type": "tabs",
+<<<<<<< HEAD
+=======
+        "dimension": 81.81818181818181,
+>>>>>>> origin/main
         "children": [
           {
             "id": "a7e9efcd033eda43",
@@ -14,16 +18,63 @@
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Dungeons and Dragons/Player Characters/Melvis.md",
+=======
+                "file": "Uni/Software Engineering/Übung 2.md",
+>>>>>>> origin/main
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Übung 2"
             }
           },
+          {
+            "id": "f8978e15af2f993e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni/Software Engineering/Übung 2.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Übung 2"
+            }
+          },
+          {
+            "id": "f7c8b5dc4dbfceee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Mindfall/To Do Morgen.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "To Do Morgen"
+            }
+<<<<<<< HEAD
+          },
+=======
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "81a36d39f3f55be9",
+        "type": "tabs",
+        "dimension": 18.18181818181818,
+        "children": [
+>>>>>>> origin/main
           {
             "id": "af351bad33af6888",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Code.md",
@@ -34,6 +85,13 @@
 >>>>>>> origin/main
                 "source": true
               }
+=======
+              "type": "obsidian-projects",
+              "state": {},
+              "pinned": true,
+              "icon": "projects-icon",
+              "title": "Projects"
+>>>>>>> origin/main
             }
           }
         ],
@@ -57,7 +115,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -72,7 +132,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -80,14 +142,20 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 200
+=======
+    "width": 237.0086555480957
+>>>>>>> origin/main
   },
   "right": {
     "id": "75ea99caa1e7f968",
@@ -104,8 +172,12 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Code.md",
 =======
+>>>>>>> origin/main
+=======
+                "file": "Uni/Software Engineering/Übung 2.md",
 >>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
@@ -114,7 +186,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Übung 2"
             }
           },
           {
@@ -124,12 +198,18 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Code.md",
 =======
 >>>>>>> origin/main
+=======
+                "file": "Uni/Software Engineering/Übung 2.md",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Übung 2"
             }
           },
           {
@@ -137,7 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "writing-goal",
-              "state": {}
+              "state": {},
+              "icon": "writing-goals-radar",
+              "title": "Writing goal"
             }
           },
           {
@@ -148,7 +230,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -156,7 +240,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -164,7 +250,9 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -172,7 +260,9 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -181,11 +271,19 @@
             "state": {
               "type": "outline",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "state": {
                 "file": "Code.md"
               }
 =======
               "state": {}
+>>>>>>> origin/main
+=======
+              "state": {
+                "file": "Uni/Software Engineering/Übung 2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Übung 2"
 >>>>>>> origin/main
             }
           }
@@ -212,11 +310,21 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+<<<<<<< HEAD
+=======
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "webpage-html-export:Export Vault to HTML": false,
+>>>>>>> origin/main
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
+<<<<<<< HEAD
 <<<<<<< HEAD
   "active": "af351bad33af6888",
   "lastOpenFiles": [
@@ -228,17 +336,50 @@
     "Dungeons and Dragons/Player Characters/Gwen.md",
 =======
   "active": "285628c772d160d9",
+=======
+  "active": "f7c8b5dc4dbfceee",
+>>>>>>> origin/main
   "lastOpenFiles": [
-    "Dungeons and Dragons/Player Characters/Gwen.md",
-    "Dungeons and Dragons/Player Characters/Melvis.md",
-    "Dungeons and Dragons/Player Characters/Rudmaeus.md",
-    "Dungeons and Dragons/Player Characters/Eri.md",
-    "Dungeons and Dragons/Player Characters/Gale.md",
+    "Projects/Mindfall/Project/Untitled Kanban.md",
+    "Projects/Mindfall/To Do Morgen.md",
+    "Food/Menu.md",
+    "Projects/Mindfall/Project",
+    "Projects/Mindfall/Untitled",
+    "Projects/Mindfall/Welcome.md",
+    "Projects/Mindfall",
+    "Projects/New folder",
+    "Uni/Software Engineering/Untitled Kanban.md",
+    "Uni/Software Engineering/Übung 2.md",
     "Uni/Software Engineering/Übung 1.md",
+    "Uni/Software Engineering/Drawing 2024-10-15 01.21.21.excalidraw.md",
+    "ZMeta/Attachments/Pasted image 20241015011929.png",
+    "ZMeta/Attachments/Pasted image 20241015004326.png",
+    "ZMeta/Attachments/Pasted image 20241015002017.png",
+    "ZMeta/Attachments/Pasted image 20241014231944.png",
+    "Projects/Nerdy Gurdy/Shopping list.md",
+    "Writing/Cyberpunk World/World Building/Apokryphen/Der Dämonenkönig.md",
+    "Projects/Nerdy Gurdy/To Do.md",
+    "Writing/Cyberpunk World/DnD/Player Characters/Gale.md",
+    "Writing/Cyberpunk World/Meta/Timeline.md",
+    "Writing/Cyberpunk World/Meta/Brainstorming/Ideas for places.md",
+    "Writing/Cyberpunk World/DnD/Campaign notes.md",
+    "Writing/Cyberpunk World/DnD/Main story snippets.md",
+    "Mag.md",
+    "Projects/Nerdy Gurdy/3D Print list.md",
+    "Writing/Cyberpunk World/World Building/Personenverzeichnis/Aamon Vel.md",
+    "Writing/Cyberpunk World/World Building/Personenverzeichnis/König Reym Corvus I.md",
+    "Writing/Cyberpunk World/World Building/Personenverzeichnis/Krestin Stone.md",
+    "Food/Ingredients.md",
+    "Food/Foodtruck Menu.md",
+    "Writing/Cyberpunk World/Meta/Setting.md",
+    "Writing/Cyberpunk World/World Building/Atlas/Länder/Landname.md",
+    "Writing/Cyberpunk World/DnD/Player Characters/Rudmaeus.md",
+    "Writing/Cyberpunk World/DnD",
     "ZMeta/Attachments/Pasted image 20241008134025.png",
     "Uni/Software Engineering/Untitled.canvas",
     "Uni/Software Engineering",
     "Uni",
+<<<<<<< HEAD
 >>>>>>> origin/main
     "Writing/Cyberpunk World/Meta/Brainstorming/02 Story.md",
     "Dungeons and Dragons/Player Characters",
@@ -264,22 +405,16 @@
     "Creative Folder/Wishlist.md",
 =======
 >>>>>>> origin/main
+=======
+    "Writing/Cyberpunk World/DnD/Player Characters",
+>>>>>>> origin/main
     "Creative Folder",
     "ZMeta/Attachments/Icespire Hold.jpg",
     "ZMeta/Attachments/Icewind Dale.png",
     "ZMeta/Attachments/Caves of Hunger.jpg",
     "ZMeta/Attachments/Caves of Hunger PV.jpg",
     "Projects/Music Videos",
-    "Projects",
-    "Food",
     "ZMeta/Attachments/Pasted image 20240713190935.png",
-    "ZMeta/Attachments/Pasted image 20240713190943.png",
-    "ZMeta/Attachments/Pasted image 20240802103240.png",
-    "ZMeta/Attachments/Pasted image 20240802104650.png",
-    "ZMeta/Attachments/Pasted image 20240802104009.png",
-    "Excalidraw",
-    "Projects",
-    "Music/Throat singing",
     "Untitled.canvas"
   ]
 }

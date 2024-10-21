@@ -16,7 +16,7 @@
     }
   ],
   "goalLeaves": [
-    "Writing"
+    null
   ],
   "customGoalFrontmatterKey": "word-goal",
   "customDailyGoalFrontmatterKey": "daily-word-goal",

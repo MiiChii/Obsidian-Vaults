@@ -1,0 +1,4 @@
+- Rework UI: Make UIElement class and hierarchy down from there
+- Rework inventory: Use new UI system for that, make a hierarchy for inventories
+- Bring some order to your folder-system (Rename sprites, make folders for sprites, put your classes into folders und passend dazu namespaces)
+- Maybe comment at least some code
