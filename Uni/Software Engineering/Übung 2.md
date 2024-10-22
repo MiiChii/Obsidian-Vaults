@@ -26,9 +26,9 @@
 #### Aufgabe 5
 ![[Pasted image 20241015002017.png]]
 
-e) Sie ist private
-f) 
-g) 
+e) Sie ist private, mit getter und setter
+f) Kapselung wird durch Information Hiding erreicht
+g) Die Attribute werden mit Attributwerten belegt
 
 
 #### Aufgabe 6

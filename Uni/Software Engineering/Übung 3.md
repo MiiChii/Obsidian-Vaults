@@ -14,17 +14,32 @@
 
 #### Aufgabe 3
 - Nutzer (Name, Vorname, Ausgeliehene Bücher, Beitrittsdatum)
-- Mitarbeiter
-- Datenbank
+- Bibliothekar
+- Administrator
+
+b)
+Name: Drucker
+Kurzbeschreibung: Druckt oder kopiert in Auftrag gegebene Dokumente aus
+Merkmale: Braucht Strom, Tinte, Papier, WLAN, steht im Druckerraum
+Beziehungen: Wird bedient von Nutzer oder Mitarbeiter
 
 #### Aufgabe 4
-- Buch ausleihen
+- Buch ausleihen (Buch, Nutzer, Buch wird im System als ausgeliehen markiert und dem Nutzer zugeschrieben)
 - Buch zurückgeben
 - Buch suchen
 - Mitarbeiter rufen
 - Nicht vorhandenes Buch beantragen
 
+b)
+Name: Buch ausleihen
+Kurzbeschreibung: Kunde leiht über das System ein Buch für maximal eine Woche aus
+Akteure: Nutzer
+Auslöser: Nutzer klickt im System auf "Buch ausleihen"
+Ergebnisse: Nutzer darf Buch konsequenzenlos mitnehmen
+Eingehende Daten: Buchtitel, Nutzerdaten, Datum 
+
 #### Aufgabe 5
+![[Pasted image 20241022140212.png]]
 
 #### Aufgabe 6
-![[Pasted image 20241022021050.png]]
+![[Pasted image 20241022143724.png]]

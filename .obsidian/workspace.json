@@ -1,115 +1,41 @@
 {
   "main": {
-    "id": "fbbc7da27a1dd0fb",
+    "id": "8306415002fa249b",
     "type": "split",
     "children": [
       {
-        "id": "0dd35ae32283013a",
+        "id": "3e0edc0eef992254",
         "type": "tabs",
-<<<<<<< HEAD
-=======
-        "dimension": 81.81818181818181,
->>>>>>> origin/main
         "children": [
           {
-            "id": "a7e9efcd033eda43",
+            "id": "84bc19d18408390f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "Dungeons and Dragons/Player Characters/Melvis.md",
-=======
-                "file": "Uni/Software Engineering/Übung 2.md",
->>>>>>> origin/main
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Übung 2"
-            }
-          },
-          {
-            "id": "f8978e15af2f993e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni/Software Engineering/Übung 2.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Übung 2"
-            }
-          },
-          {
-            "id": "f7c8b5dc4dbfceee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni/Software Engineering/Übung 3.md",
+                "file": "Writing/Fanfictions/Liebe auf den ersten Blick.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Übung 3"
-            }
-<<<<<<< HEAD
-          },
-=======
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "81a36d39f3f55be9",
-        "type": "tabs",
-        "dimension": 18.18181818181818,
-        "children": [
->>>>>>> origin/main
-          {
-            "id": "af351bad33af6888",
-            "type": "leaf",
-            "state": {
-<<<<<<< HEAD
-              "type": "markdown",
-              "state": {
-                "file": "Code.md",
-                "mode": "source",
-=======
-                "file": "Dungeons and Dragons/Player Characters/Gwen.md",
-                "mode": "preview",
->>>>>>> origin/main
-                "source": true
-              }
-=======
-              "type": "obsidian-projects",
-              "state": {},
-              "pinned": true,
-              "icon": "projects-icon",
-              "title": "Projects"
->>>>>>> origin/main
+              "title": "Liebe auf den ersten Blick"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b94140eec26579f4",
+    "id": "2775c123595fa725",
     "type": "split",
     "children": [
       {
-        "id": "873a03ed65781e2e",
+        "id": "918c65b2286e6791",
         "type": "tabs",
         "children": [
           {
-            "id": "cbc1be1e027f003a",
+            "id": "508aee73e3d2c749",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -121,7 +47,7 @@
             }
           },
           {
-            "id": "a0ed9cf129cef559",
+            "id": "82f5128b70aa9da5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -129,7 +55,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -138,7 +64,7 @@
             }
           },
           {
-            "id": "2f259001f79d46b2",
+            "id": "8945ededa0aadc98",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -151,34 +77,23 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 200
-=======
-    "width": 237.0086555480957
->>>>>>> origin/main
+    "width": 300
   },
   "right": {
-    "id": "75ea99caa1e7f968",
+    "id": "138ddd7f8fa16324",
     "type": "split",
     "children": [
       {
-        "id": "456a44bd070aa075",
+        "id": "f02409509653244a",
         "type": "tabs",
         "children": [
           {
-            "id": "35be89de5c589161",
+            "id": "e830ed7409f9de10",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "Code.md",
-=======
->>>>>>> origin/main
-=======
                 "file": "Uni/Software Engineering/Übung 2.md",
->>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,19 +107,12 @@
             }
           },
           {
-            "id": "3a639e5f91ee38f7",
+            "id": "742e7a16b1fe5d2f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "Code.md",
-=======
->>>>>>> origin/main
-=======
                 "file": "Uni/Software Engineering/Übung 2.md",
->>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -213,17 +121,7 @@
             }
           },
           {
-            "id": "bea077967c451065",
-            "type": "leaf",
-            "state": {
-              "type": "writing-goal",
-              "state": {},
-              "icon": "writing-goals-radar",
-              "title": "Writing goal"
-            }
-          },
-          {
-            "id": "93626028fb8a9d5f",
+            "id": "6dc2e05a897cf2be",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -236,27 +134,19 @@
             }
           },
           {
-            "id": "a326eaec3807e539",
+            "id": "af7b9d15b11e6853",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "type": "outline",
+              "state": {
+                "file": "Uni/Software Engineering/Übung 2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Übung 2"
             }
           },
           {
-            "id": "1f16a214dc39ebc5",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "9d90c07179e6a626",
+            "id": "b0ad9d12c0d8ff8d",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -266,37 +156,28 @@
             }
           },
           {
-            "id": "eecf22b4f691bae6",
+            "id": "d987d4863b266cbd",
             "type": "leaf",
             "state": {
-              "type": "outline",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "state": {
-                "file": "Code.md"
-              }
-=======
-              "state": {}
->>>>>>> origin/main
-=======
-              "state": {
-                "file": "Uni/Software Engineering/Übung 2.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Übung 2"
->>>>>>> origin/main
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "cmdr:Open settings": false,
       "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -308,113 +189,34 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-<<<<<<< HEAD
-=======
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": true,
-      "webpage-html-export:Export Vault to HTML": false,
->>>>>>> origin/main
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "random-note:Open random note": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "active": "af351bad33af6888",
+  "active": "84bc19d18408390f",
   "lastOpenFiles": [
-    "Dungeons and Dragons/Player Characters/Melvis.md",
-    "Code.md",
-    "Dungeons and Dragons/Player Characters/Eri.md",
-    "Dungeons and Dragons/Player Characters/Gale.md",
-    "Dungeons and Dragons/Player Characters/Rudmaeus.md",
-    "Dungeons and Dragons/Player Characters/Gwen.md",
-=======
-  "active": "285628c772d160d9",
-=======
-  "active": "f7c8b5dc4dbfceee",
->>>>>>> origin/main
-  "lastOpenFiles": [
-    "ZMeta/Attachments/Pasted image 20241022021050.png",
-    "Uni/Software Engineering/Übung 3.md",
-    "Projects/Mindfall/To Do Morgen.md",
-    "Projects/Mindfall/Project/Untitled Kanban.md",
-    "Food/Menu.md",
-    "Projects/Mindfall/Project",
-    "Projects/Mindfall/Untitled",
-    "Projects/Mindfall/Welcome.md",
-    "Projects/Mindfall",
-    "Projects/New folder",
-    "Uni/Software Engineering/Untitled Kanban.md",
+    "Uni/Betriebsysteme/Übung 3.md",
     "Uni/Software Engineering/Übung 2.md",
-    "Uni/Software Engineering/Übung 1.md",
-    "Uni/Software Engineering/Drawing 2024-10-15 01.21.21.excalidraw.md",
-    "ZMeta/Attachments/Pasted image 20241015011929.png",
-    "ZMeta/Attachments/Pasted image 20241015004326.png",
-    "ZMeta/Attachments/Pasted image 20241015002017.png",
-    "ZMeta/Attachments/Pasted image 20241014231944.png",
-    "Projects/Nerdy Gurdy/Shopping list.md",
-    "Writing/Cyberpunk World/World Building/Apokryphen/Der Dämonenkönig.md",
-    "Projects/Nerdy Gurdy/To Do.md",
-    "Writing/Cyberpunk World/DnD/Player Characters/Gale.md",
-    "Writing/Cyberpunk World/Meta/Timeline.md",
-    "Writing/Cyberpunk World/Meta/Brainstorming/Ideas for places.md",
-    "Writing/Cyberpunk World/DnD/Campaign notes.md",
-    "Writing/Cyberpunk World/DnD/Main story snippets.md",
-    "Mag.md",
-    "Projects/Nerdy Gurdy/3D Print list.md",
-    "Writing/Cyberpunk World/World Building/Personenverzeichnis/Aamon Vel.md",
-    "Writing/Cyberpunk World/World Building/Personenverzeichnis/König Reym Corvus I.md",
-    "Writing/Cyberpunk World/World Building/Personenverzeichnis/Krestin Stone.md",
-    "Food/Ingredients.md",
-    "Food/Foodtruck Menu.md",
-    "Writing/Cyberpunk World/Meta/Setting.md",
-    "Writing/Cyberpunk World/DnD",
-    "ZMeta/Attachments/Pasted image 20241008134025.png",
-    "Uni/Software Engineering/Untitled.canvas",
-    "Uni/Software Engineering",
-    "Uni",
-<<<<<<< HEAD
->>>>>>> origin/main
-    "Writing/Cyberpunk World/Meta/Brainstorming/02 Story.md",
-    "Dungeons and Dragons/Player Characters",
-    "Writing/Cyberpunk World/Meta/Brainstorming/01 First Time.md",
-    "Writing/Cyberpunk World/Meta/Setting.md",
-    "Writing/Cyberpunk World/Meta/Characters/Myteriöser Magier.md",
-    "Writing/Cyberpunk World/Meta/Characters/Mark.md",
-    "Writing/Cyberpunk World/Meta/Characters/König Corvus.md",
-    "Writing/Cyberpunk World/Meta/Characters/Kats Demon Friend.md",
-    "Projects/Nerdy Gurdy/To Do.md",
-    "Projects/Nerdy Gurdy/Shopping list.md",
-    "Projects/Nerdy Gurdy/3D Print list.md",
-    "Food/Ingredients.md",
-    "Food/Menu.md",
-    "Food/Foodtruck Menu.md",
-    "Projects/Projects.md",
+    "Uni/Software Engineering/Übung 3.md",
+    "ZMeta/Attachments/Pasted image 20241022143724.png",
+    "Uni/Betriebsysteme",
+    "ZMeta/Attachments/Pasted image 20241022140212.png",
+    "Projects/Mindfall/Project/Untitled Kanban.md",
+    "ZMeta/Attachments/Pasted image 20241022021050.png",
+    "Projects/Mindfall/To Do Morgen.md",
+    "Uni/Computergrafik/Übung 1.md",
+    "Uni/Betriebssysteme/Übung 2.md",
+    "Projects/Mindfall/Project",
+    "Projects/Mindfall",
     "Creative Folder/Cube Escape.md",
+    "Creative Folder/Wishlist.md",
     "Creative Folder/Boredom Inspiration.md",
+    "Creative Folder/Freunde als Textarten.md",
     "Creative Folder/Brainstorming.md",
     "Creative Folder/Das Manifest der anders-Denglischen.md",
-    "Creative Folder/Freunde als Textarten.md",
-<<<<<<< HEAD
-    "Creative Folder/Wishlist.md",
-=======
->>>>>>> origin/main
-=======
-    "Writing/Cyberpunk World/DnD/Player Characters",
->>>>>>> origin/main
     "Creative Folder",
-    "ZMeta/Attachments/Icespire Hold.jpg",
-    "ZMeta/Attachments/Icewind Dale.png",
-    "ZMeta/Attachments/Caves of Hunger.jpg",
-    "ZMeta/Attachments/Caves of Hunger PV.jpg",
-    "Projects/Music Videos",
-    "ZMeta/Attachments/Pasted image 20240713190935.png",
-    "Untitled.canvas"
+    "Uni/Computergrafik",
+    "Uni/Software Engineering/Übung 1.md",
+    "Uni/Betriebsysteme",
+    "ZMeta/Attachments/Pasted image 20241015135927.png"
   ]
 }
