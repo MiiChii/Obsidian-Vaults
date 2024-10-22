@@ -323,6 +323,23 @@
       "startCount": 4606,
       "endCount": 4606,
       "date": "Sun Oct 20 2024 00:00:00 GMT+0200"
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
+    },
+    {
+      "dailyGoal": 500,
+      "goal": 0,
+      "startCount": 4606,
+      "endCount": 4606,
+      "date": "Mon Oct 21 2024 00:00:00 GMT+0200"
+    },
+    {
+      "dailyGoal": 500,
+      "goal": 0,
+      "startCount": 4606,
+      "endCount": 4606,
+      "date": "Tue Oct 22 2024 00:00:00 GMT+0200"
 >>>>>>> origin/main
     }
   ],
@@ -653,6 +670,23 @@
       "startCount": 8998,
       "endCount": 8998,
       "date": "Sun Oct 20 2024 00:00:00 GMT+0200"
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
+    },
+    {
+      "dailyGoal": 1000,
+      "goal": 0,
+      "startCount": 8998,
+      "endCount": 8998,
+      "date": "Mon Oct 21 2024 00:00:00 GMT+0200"
+    },
+    {
+      "dailyGoal": 1000,
+      "goal": 0,
+      "startCount": 8998,
+      "endCount": 8998,
+      "date": "Tue Oct 22 2024 00:00:00 GMT+0200"
 >>>>>>> origin/main
     }
   ],
