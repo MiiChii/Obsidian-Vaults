@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Fanfictions/Liebe auf den ersten Blick.md",
+                "file": "Uni/Software Engineering/ETAB.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Liebe auf den ersten Blick"
+              "title": "ETAB"
             }
           }
         ]
@@ -93,17 +93,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/Software Engineering/Übung 2.md",
+                "file": "Uni/Software Engineering/ETAB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Übung 2"
+              "title": "Backlinks for ETAB"
             }
           },
           {
@@ -164,12 +164,23 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "42770c25f05d0f05",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 413.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -194,6 +205,11 @@
   },
   "active": "84bc19d18408390f",
   "lastOpenFiles": [
+    "Uni/Computergrafik/Übung 2.md",
+    "Uni/Software Engineering/ETAB.md",
+    "Uni/Computergrafik/Übung 3.md",
+    "Writing/Fanfictions/Liebe auf den ersten Blick.md",
+    "Uni/Computergrafik",
     "Uni/Betriebsysteme/Übung 3.md",
     "Uni/Software Engineering/Übung 2.md",
     "Uni/Software Engineering/Übung 3.md",
