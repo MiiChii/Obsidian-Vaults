@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Software Engineering/ETAB.md",
-                "mode": "source",
+                "file": "Uni/Datenbanken/Übung 2.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ETAB"
+              "title": "Übung 2"
             }
           }
         ]
@@ -205,9 +205,12 @@
   },
   "active": "84bc19d18408390f",
   "lastOpenFiles": [
+    "Uni/Datenbanken/Übung 2.md",
     "Uni/Computergrafik/Übung 2.md",
-    "Uni/Software Engineering/ETAB.md",
+    "Uni/Datenbanken",
     "Uni/Computergrafik/Übung 3.md",
+    "ZMeta/Attachments/Pasted image 20241023163304.png",
+    "Uni/Software Engineering/ETAB.md",
     "Writing/Fanfictions/Liebe auf den ersten Blick.md",
     "Uni/Computergrafik",
     "Uni/Betriebsysteme/Übung 3.md",
